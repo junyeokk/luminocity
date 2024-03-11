@@ -1,0 +1,1040 @@
+[
+  {
+    "markerId": 37,
+    "markerName": "인덕이마트앞1",
+    "longitude": 129.3975473,
+    "latitude": 35.99290454
+  },
+  {
+    "markerId": 38,
+    "markerName": "인덕이마트앞2",
+    "longitude": 129.3974644,
+    "latitude": 35.99291521
+  },
+  {
+    "markerId": 36,
+    "markerName": "청림삼거리",
+    "longitude": 129.4023999,
+    "latitude": 35.99425124
+  },
+  {
+    "markerId": 35,
+    "markerName": "제일장례맞은편2",
+    "longitude": 129.4055189,
+    "latitude": 35.98305475
+  },
+  {
+    "markerId": 172,
+    "markerName": "제일장례맞은편1",
+    "longitude": 129.4025586,
+    "latitude": 35.98815513
+  },
+  {
+    "markerId": 34,
+    "markerName": "청림삼거리2",
+    "longitude": 129.4023932,
+    "latitude": 35.99421534
+  },
+  {
+    "markerId": 31,
+    "markerName": "근로복지1",
+    "longitude": 129.3797683,
+    "latitude": 35.97912441
+  },
+  {
+    "markerId": 32,
+    "markerName": "근로복지2",
+    "longitude": 129.3796753,
+    "latitude": 35.9790722
+  },
+  {
+    "markerId": 29,
+    "markerName": "폴리텍",
+    "longitude": 129.3766215,
+    "latitude": 35.99361779
+  },
+  {
+    "markerId": 33,
+    "markerName": "신기동1",
+    "longitude": 129.3632335,
+    "latitude": 35.98678777
+  },
+  {
+    "markerId": 165,
+    "markerName": "신기동2",
+    "longitude": 129.3633227,
+    "latitude": 35.98680403
+  },
+  {
+    "markerId": 27,
+    "markerName": "형산교1",
+    "longitude": 129.3707481,
+    "latitude": 36.01177119
+  },
+  {
+    "markerId": 28,
+    "markerName": "형산교2",
+    "longitude": 129.3707074,
+    "latitude": 36.01174867
+  },
+  {
+    "markerId": 26,
+    "markerName": "예술회관1",
+    "longitude": 129.3644216,
+    "latitude": 36.01023929
+  },
+  {
+    "markerId": 131,
+    "markerName": "예술회관2",
+    "longitude": 129.3645384,
+    "latitude": 36.01015863
+  },
+  {
+    "markerId": 25,
+    "markerName": "섬안사거리2",
+    "longitude": 129.3568279,
+    "latitude": 36.00781021
+  },
+  {
+    "markerId": 23,
+    "markerName": "섬안사거리1",
+    "longitude": 129.3567846,
+    "latitude": 36.0078471
+  },
+  {
+    "markerId": 24,
+    "markerName": "볼링장",
+    "longitude": 129.3562363,
+    "latitude": 36.00830454
+  },
+  {
+    "markerId": 43,
+    "markerName": "뱃머리",
+    "longitude": 129.3533188,
+    "latitude": 36.00892325
+  },
+  {
+    "markerId": 171,
+    "markerName": "에이스침대 맞이편",
+    "longitude": 129.3461724,
+    "latitude": 36.01664176
+  },
+  {
+    "markerId": 1,
+    "markerName": "오광장1",
+    "longitude": 129.3555379,
+    "latitude": 36.01933354
+  },
+  {
+    "markerId": 2,
+    "markerName": "오광장2",
+    "longitude": 129.3555041,
+    "latitude": 36.01930689
+  },
+  {
+    "markerId": 170,
+    "markerName": "상대동 코아루 맞은편",
+    "longitude": 129.3465987,
+    "latitude": 36.00820459
+  },
+  {
+    "markerId": 42,
+    "markerName": "한전맞은편",
+    "longitude": 129.3476022,
+    "latitude": 36.00995186
+  },
+  {
+    "markerId": 22,
+    "markerName": "대잠사거리1",
+    "longitude": 129.3429491,
+    "latitude": 36.01157207
+  },
+  {
+    "markerId": 161,
+    "markerName": "대잠사거리2",
+    "longitude": 129.3429515,
+    "latitude": 36.01161412
+  },
+  {
+    "markerId": 21,
+    "markerName": "남부경찰서1",
+    "longitude": 129.3451252,
+    "latitude": 36.0058165
+  },
+  {
+    "markerId": 16,
+    "markerName": "남부경찰서2",
+    "longitude": 129.3451043,
+    "latitude": 36.0057651
+  },
+  {
+    "markerId": 18,
+    "markerName": "효자사거리1",
+    "longitude": 129.3394495,
+    "latitude": 36.00861036
+  },
+  {
+    "markerId": 19,
+    "markerName": "효자사거리2",
+    "longitude": 129.3393615,
+    "latitude": 36.00862309
+  },
+  {
+    "markerId": 180,
+    "markerName": "효자사거리3",
+    "longitude": 129.3392898,
+    "latitude": 36.0086335
+  },
+  {
+    "markerId": 13,
+    "markerName": "이동택지1",
+    "longitude": 129.339013,
+    "latitude": 36.01952822
+  },
+  {
+    "markerId": 14,
+    "markerName": "이동택지2",
+    "longitude": 129.3390337,
+    "latitude": 36.01943788
+  },
+  {
+    "markerId": 12,
+    "markerName": "건강랜드",
+    "longitude": 129.335433,
+    "latitude": 36.02561489
+  },
+  {
+    "markerId": 11,
+    "markerName": "이동LG",
+    "longitude": 129.3384777,
+    "latitude": 36.02552503
+  },
+  {
+    "markerId": 182,
+    "markerName": "이동LG2",
+    "longitude": 129.3383876,
+    "latitude": 36.02557184
+  },
+  {
+    "markerId": 158,
+    "markerName": "이동매매1",
+    "longitude": 129.3357862,
+    "latitude": 36.0316615
+  },
+  {
+    "markerId": 10,
+    "markerName": "이동매매2",
+    "longitude": 129.3356689,
+    "latitude": 36.03170406
+  },
+  {
+    "markerId": 7,
+    "markerName": "이동이마트1",
+    "longitude": 129.3382659,
+    "latitude": 36.03242854
+  },
+  {
+    "markerId": 8,
+    "markerName": "이동이마트2",
+    "longitude": 129.3381659,
+    "latitude": 36.03240615
+  },
+  {
+    "markerId": 9,
+    "markerName": "이동이마트3",
+    "longitude": 129.3380663,
+    "latitude": 36.03241627
+  },
+  {
+    "markerId": 5,
+    "markerName": "양학보성",
+    "longitude": 129.3475662,
+    "latitude": 36.02933607
+  },
+  {
+    "markerId": 99,
+    "markerName": "포항의료원",
+    "longitude": 129.3559026,
+    "latitude": 36.03349552
+  },
+  {
+    "markerId": 98,
+    "markerName": "용흥한라1",
+    "longitude": 129.3542129,
+    "latitude": 36.03913779
+  },
+  {
+    "markerId": 96,
+    "markerName": "사격장1",
+    "longitude": 129.358011,
+    "latitude": 36.04592145
+  },
+  {
+    "markerId": 97,
+    "markerName": "사격장2",
+    "longitude": 129.3580885,
+    "latitude": 36.04600778
+  },
+  {
+    "markerId": 157,
+    "markerName": "사격장3",
+    "longitude": 129.3580616,
+    "latitude": 36.04594298
+  },
+  {
+    "markerId": 44,
+    "markerName": "동빈유료",
+    "longitude": 129.3696848,
+    "latitude": 36.0388797
+  },
+  {
+    "markerId": 45,
+    "markerName": "포항세관",
+    "longitude": 129.3730207,
+    "latitude": 36.05142526
+  },
+  {
+    "markerId": 40,
+    "markerName": "태왕아너스옆",
+    "longitude": 129.376566,
+    "latitude": 36.03991021
+  },
+  {
+    "markerId": 41,
+    "markerName": "강변세차장",
+    "longitude": 129.376706,
+    "latitude": 36.02353197
+  },
+  {
+    "markerId": 189,
+    "markerName": "용흥한라2",
+    "longitude": 129.3542668,
+    "latitude": 36.03912952
+  },
+  {
+    "markerId": 190,
+    "markerName": "kcc스위첸",
+    "longitude": 129.3540792,
+    "latitude": 36.02910291
+  },
+  {
+    "markerId": 183,
+    "markerName": "원용교2",
+    "longitude": 129.4083561,
+    "latitude": 35.97574034
+  },
+  {
+    "markerId": 100,
+    "markerName": "경북자동차",
+    "longitude": 129.3447881,
+    "latitude": 35.99911741
+  },
+  {
+    "markerId": 101,
+    "markerName": "연일읍사무소2",
+    "longitude": 0,
+    "latitude": 0
+  },
+  {
+    "markerId": 102,
+    "markerName": "영일고",
+    "longitude": 129.3521536,
+    "latitude": 35.99524785
+  },
+  {
+    "markerId": 103,
+    "markerName": "연일읍사무소1",
+    "longitude": 129.3432659,
+    "latitude": 35.99264195
+  },
+  {
+    "markerId": 104,
+    "markerName": "남천교",
+    "longitude": 129.3577612,
+    "latitude": 35.98841818
+  },
+  {
+    "markerId": 107,
+    "markerName": "송동버스",
+    "longitude": 129.361577,
+    "latitude": 35.96729127
+  },
+  {
+    "markerId": 108,
+    "markerName": "송동사거리",
+    "longitude": 129.3618364,
+    "latitude": 35.97422836
+  },
+  {
+    "markerId": 109,
+    "markerName": "대송복지",
+    "longitude": 129.3611678,
+    "latitude": 35.97829602
+  },
+  {
+    "markerId": 110,
+    "markerName": "강변1",
+    "longitude": 129.4092555,
+    "latitude": 35.97672972
+  },
+  {
+    "markerId": 111,
+    "markerName": "강변2",
+    "longitude": 129.4092964,
+    "latitude": 35.97667875
+  },
+  {
+    "markerId": 112,
+    "markerName": "원용교1",
+    "longitude": 129.4083231,
+    "latitude": 35.97583786
+  },
+  {
+    "markerId": 113,
+    "markerName": "구,버스종점1",
+    "longitude": 129.3992647,
+    "latitude": 35.96343749
+  },
+  {
+    "markerId": 114,
+    "markerName": "구.버스종점2",
+    "longitude": 129.399343,
+    "latitude": 35.96333641
+  },
+  {
+    "markerId": 115,
+    "markerName": "문덕다리1",
+    "longitude": 129.4075142,
+    "latitude": 35.9617009
+  },
+  {
+    "markerId": 116,
+    "markerName": "문덕다리2",
+    "longitude": 129.4074467,
+    "latitude": 35.96164762
+  },
+  {
+    "markerId": 117,
+    "markerName": "우체국맞은편",
+    "longitude": 129.4151325,
+    "latitude": 35.96188164
+  },
+  {
+    "markerId": 118,
+    "markerName": "문덕사거리1",
+    "longitude": 129.4129521,
+    "latitude": 35.96150018
+  },
+  {
+    "markerId": 119,
+    "markerName": "문덕사거리2",
+    "longitude": 129.4128149,
+    "latitude": 35.96145338
+  },
+  {
+    "markerId": 30,
+    "markerName": "백두산삼거리",
+    "longitude": 129.4100705,
+    "latitude": 35.97078875
+  },
+  {
+    "markerId": 167,
+    "markerName": "강나루 맞은편",
+    "longitude": 129.4069727,
+    "latitude": 35.95966067
+  },
+  {
+    "markerId": 122,
+    "markerName": "공항삼거리",
+    "longitude": 129.4341883,
+    "latitude": 35.98953693
+  },
+  {
+    "markerId": 123,
+    "markerName": "영남아파트",
+    "longitude": 129.4453826,
+    "latitude": 35.98805084
+  },
+  {
+    "markerId": 125,
+    "markerName": "임곡온천",
+    "longitude": 129.4542301,
+    "latitude": 35.99042205
+  },
+  {
+    "markerId": 126,
+    "markerName": "병포리 입구",
+    "longitude": 129.5448524,
+    "latitude": 35.9822873
+  },
+  {
+    "markerId": 127,
+    "markerName": "구룡포도서관앞",
+    "longitude": 129.5538877,
+    "latitude": 35.9889848
+  },
+  {
+    "markerId": 128,
+    "markerName": "구룡포수협앞",
+    "longitude": 129.5573209,
+    "latitude": 35.99108332
+  },
+  {
+    "markerId": 129,
+    "markerName": "해뜨는 마을",
+    "longitude": 129.5496585,
+    "latitude": 35.97972917
+  },
+  {
+    "markerId": 130,
+    "markerName": "호미곶 농협앞",
+    "longitude": 129.5617969,
+    "latitude": 36.07797464
+  },
+  {
+    "markerId": 132,
+    "markerName": "장기면사무소",
+    "longitude": 129.4926599,
+    "latitude": 35.89718597
+  },
+  {
+    "markerId": 191,
+    "markerName": "효자 sk1차 삼거리",
+    "longitude": 129.3345913,
+    "latitude": 36.00762137
+  },
+  {
+    "markerId": 192,
+    "markerName": "효자 승리아파트 맞은편1",
+    "longitude": 129.328476,
+    "latitude": 36.00810295
+  },
+  {
+    "markerId": 193,
+    "markerName": "효자 승리아파트 맞은편2",
+    "longitude": 129.3284971,
+    "latitude": 36.0080665
+  },
+  {
+    "markerId": 46,
+    "markerName": "수산연구원1",
+    "longitude": 129.3777834,
+    "latitude": 36.05845112
+  },
+  {
+    "markerId": 177,
+    "markerName": "포항세관 후문",
+    "longitude": 129.3729894,
+    "latitude": 36.0519552
+  },
+  {
+    "markerId": 176,
+    "markerName": "수산연구원2",
+    "longitude": 129.377869,
+    "latitude": 36.05851224
+  },
+  {
+    "markerId": 47,
+    "markerName": "롯데백화점",
+    "longitude": 129.3681923,
+    "latitude": 36.04934226
+  },
+  {
+    "markerId": 48,
+    "markerName": "나루끝1",
+    "longitude": 129.3638051,
+    "latitude": 36.04783327
+  },
+  {
+    "markerId": 49,
+    "markerName": "나루끝2",
+    "longitude": 129.3638491,
+    "latitude": 36.04780574
+  },
+  {
+    "markerId": 51,
+    "markerName": "신동아4",
+    "longitude": 129.3605429,
+    "latitude": 36.05212898
+  },
+  {
+    "markerId": 52,
+    "markerName": "포고삼거리",
+    "longitude": 129.3692486,
+    "latitude": 36.05779196
+  },
+  {
+    "markerId": 53,
+    "markerName": "창포사거리1",
+    "longitude": 129.3707282,
+    "latitude": 36.0611994
+  },
+  {
+    "markerId": 54,
+    "markerName": "창포사거리2",
+    "longitude": 129.3707274,
+    "latitude": 36.06115435
+  },
+  {
+    "markerId": 55,
+    "markerName": "아이파크1",
+    "longitude": 129.3714667,
+    "latitude": 36.06410165
+  },
+  {
+    "markerId": 56,
+    "markerName": "아이파크2",
+    "longitude": 129.3714658,
+    "latitude": 36.06404759
+  },
+  {
+    "markerId": 57,
+    "markerName": "아이파크3",
+    "longitude": 129.3714433,
+    "latitude": 36.06402982
+  },
+  {
+    "markerId": 58,
+    "markerName": "동부초등 옆",
+    "longitude": 129.3813302,
+    "latitude": 36.06326746
+  },
+  {
+    "markerId": 59,
+    "markerName": "장성럭키",
+    "longitude": 129.3796202,
+    "latitude": 36.06449469
+  },
+  {
+    "markerId": 60,
+    "markerName": "장량동사",
+    "longitude": 129.3788579,
+    "latitude": 36.06724293
+  },
+  {
+    "markerId": 61,
+    "markerName": "아모르웨딩1",
+    "longitude": 129.3865921,
+    "latitude": 36.074811
+  },
+  {
+    "markerId": 62,
+    "markerName": "아모르웨딩2",
+    "longitude": 129.3866825,
+    "latitude": 36.07480335
+  },
+  {
+    "markerId": 63,
+    "markerName": "아모르웨딩3",
+    "longitude": 129.3867656,
+    "latitude": 36.07485935
+  },
+  {
+    "markerId": 64,
+    "markerName": "장성삼성a/s1",
+    "longitude": 129.3927822,
+    "latitude": 36.07590834
+  },
+  {
+    "markerId": 65,
+    "markerName": "장성삼성a/s2",
+    "longitude": 129.3928691,
+    "latitude": 36.07593589
+  },
+  {
+    "markerId": 66,
+    "markerName": "산호조경1",
+    "longitude": 129.3967086,
+    "latitude": 36.07619181
+  },
+  {
+    "markerId": 67,
+    "markerName": "산호조경2",
+    "longitude": 129.3965979,
+    "latitude": 36.07621112
+  },
+  {
+    "markerId": 156,
+    "markerName": "산호조경3",
+    "longitude": 129.3964913,
+    "latitude": 36.07625315
+  },
+  {
+    "markerId": 68,
+    "markerName": "환여동사",
+    "longitude": 129.3968721,
+    "latitude": 36.06974676
+  },
+  {
+    "markerId": 69,
+    "markerName": "청우대림1차",
+    "longitude": 129.3853894,
+    "latitude": 36.06626647
+  },
+  {
+    "markerId": 70,
+    "markerName": "환호해맞이",
+    "longitude": 129.3892007,
+    "latitude": 36.06721554
+  },
+  {
+    "markerId": 173,
+    "markerName": "전통놀이주차장",
+    "longitude": 129.3997182,
+    "latitude": 36.0672148
+  },
+  {
+    "markerId": 71,
+    "markerName": "청소년수련원",
+    "longitude": 129.397487,
+    "latitude": 36.07564205
+  },
+  {
+    "markerId": 72,
+    "markerName": "양덕사거리1",
+    "longitude": 129.3974549,
+    "latitude": 36.07627892
+  },
+  {
+    "markerId": 73,
+    "markerName": "양덕사거리2",
+    "longitude": 129.3973405,
+    "latitude": 36.07625868
+  },
+  {
+    "markerId": 83,
+    "markerName": "축산랜드",
+    "longitude": 129.411814,
+    "latitude": 36.07964638
+  },
+  {
+    "markerId": 168,
+    "markerName": "하나로마트앞1",
+    "longitude": 129.3987138,
+    "latitude": 36.08191411
+  },
+  {
+    "markerId": 159,
+    "markerName": "축산랜드2",
+    "longitude": 129.4119205,
+    "latitude": 36.07968252
+  },
+  {
+    "markerId": 74,
+    "markerName": "하나로마트앞2",
+    "longitude": 129.3986445,
+    "latitude": 36.08191775
+  },
+  {
+    "markerId": 78,
+    "markerName": "양덕e편한1",
+    "longitude": 129.3969759,
+    "latitude": 36.08654614
+  },
+  {
+    "markerId": 75,
+    "markerName": "양덕e편한2",
+    "longitude": 129.3964847,
+    "latitude": 36.08645461
+  },
+  {
+    "markerId": 164,
+    "markerName": "삼구3차 삼거리",
+    "longitude": 129.3970637,
+    "latitude": 36.08879682
+  },
+  {
+    "markerId": 169,
+    "markerName": "기아서비스 학잠점",
+    "longitude": 129.3697885,
+    "latitude": 36.05824662
+  },
+  {
+    "markerId": 76,
+    "markerName": "양덕e편한3",
+    "longitude": 129.3964007,
+    "latitude": 36.08642926
+  },
+  {
+    "markerId": 77,
+    "markerName": "보금이갈비",
+    "longitude": 129.3921878,
+    "latitude": 36.08659682
+  },
+  {
+    "markerId": 79,
+    "markerName": "양덕삼도1",
+    "longitude": 129.3824532,
+    "latitude": 36.08982039
+  },
+  {
+    "markerId": 80,
+    "markerName": "양덕삼도2",
+    "longitude": 129.382076,
+    "latitude": 36.09010494
+  },
+  {
+    "markerId": 81,
+    "markerName": "양덕삼도3",
+    "longitude": 129.3819444,
+    "latitude": 36.09015712
+  },
+  {
+    "markerId": 82,
+    "markerName": "양덕삼도4",
+    "longitude": 129.3818578,
+    "latitude": 36.09023092
+  },
+  {
+    "markerId": 163,
+    "markerName": "기쁨의교회1",
+    "longitude": 129.3744138,
+    "latitude": 36.09591525
+  },
+  {
+    "markerId": 3,
+    "markerName": "기쁨의교회2",
+    "longitude": 129.3743015,
+    "latitude": 36.09596478
+  },
+  {
+    "markerId": 84,
+    "markerName": "포항온천",
+    "longitude": 129.3798738,
+    "latitude": 36.08370671
+  },
+  {
+    "markerId": 85,
+    "markerName": "장성케이블1",
+    "longitude": 129.3793543,
+    "latitude": 36.07278826
+  },
+  {
+    "markerId": 86,
+    "markerName": "장성케이블2",
+    "longitude": 129.379342,
+    "latitude": 36.07271631
+  },
+  {
+    "markerId": 87,
+    "markerName": "장성케이블3",
+    "longitude": 129.3792723,
+    "latitude": 36.07253688
+  },
+  {
+    "markerId": 88,
+    "markerName": "장성케이블4",
+    "longitude": 129.3791933,
+    "latitude": 36.0724657
+  },
+  {
+    "markerId": 89,
+    "markerName": "사랑교회1",
+    "longitude": 129.3692218,
+    "latitude": 36.05817075
+  },
+  {
+    "markerId": 90,
+    "markerName": "사랑교회2",
+    "longitude": 129.3691771,
+    "latitude": 36.05815324
+  },
+  {
+    "markerId": 91,
+    "markerName": "여성문화1",
+    "longitude": 129.3630777,
+    "latitude": 36.05455509
+  },
+  {
+    "markerId": 92,
+    "markerName": "여성문화2",
+    "longitude": 129.3632008,
+    "latitude": 36.05461677
+  },
+  {
+    "markerId": 162,
+    "markerName": "유성여고입구",
+    "longitude": 129.3583672,
+    "latitude": 36.05432518
+  },
+  {
+    "markerId": 93,
+    "markerName": "신동아1",
+    "longitude": 129.359861,
+    "latitude": 36.05260867
+  },
+  {
+    "markerId": 94,
+    "markerName": "신동아2",
+    "longitude": 129.3598908,
+    "latitude": 36.05249095
+  },
+  {
+    "markerId": 95,
+    "markerName": "신동아3",
+    "longitude": 129.3599265,
+    "latitude": 36.05238439
+  },
+  {
+    "markerId": 187,
+    "markerName": "달전사거리3",
+    "longitude": 129.3429921,
+    "latitude": 36.0785684
+  },
+  {
+    "markerId": 133,
+    "markerName": "망천리사거리",
+    "longitude": 129.3586055,
+    "latitude": 36.10940438
+  },
+  {
+    "markerId": 134,
+    "markerName": "흥해읍사무소 앞",
+    "longitude": 129.3431771,
+    "latitude": 36.10726243
+  },
+  {
+    "markerId": 135,
+    "markerName": "마산사거리A",
+    "longitude": 129.3416913,
+    "latitude": 36.11159249
+  },
+  {
+    "markerId": 136,
+    "markerName": "마산사거리B",
+    "longitude": 129.3415777,
+    "latitude": 36.11169157
+  },
+  {
+    "markerId": 137,
+    "markerName": "흥해로타리 옆",
+    "longitude": 129.3467148,
+    "latitude": 36.11034539
+  },
+  {
+    "markerId": 138,
+    "markerName": "흥해플라자 앞",
+    "longitude": 129.3447105,
+    "latitude": 36.10492919
+  },
+  {
+    "markerId": 139,
+    "markerName": "선린대 앞",
+    "longitude": 129.3410195,
+    "latitude": 36.08943497
+  },
+  {
+    "markerId": 140,
+    "markerName": "달전사거리",
+    "longitude": 129.3423975,
+    "latitude": 36.07872644
+  },
+  {
+    "markerId": 186,
+    "markerName": "달전사거리2",
+    "longitude": 129.3429076,
+    "latitude": 36.07861735
+  },
+  {
+    "markerId": 141,
+    "markerName": "곡강초등",
+    "longitude": 129.3479334,
+    "latitude": 36.13019707
+  },
+  {
+    "markerId": 143,
+    "markerName": "청하복지",
+    "longitude": 129.3411212,
+    "latitude": 36.20112965
+  },
+  {
+    "markerId": 144,
+    "markerName": "청하교 옆",
+    "longitude": 129.3388194,
+    "latitude": 36.1908133
+  },
+  {
+    "markerId": 145,
+    "markerName": "월포",
+    "longitude": 129.3682402,
+    "latitude": 36.20343374
+  },
+  {
+    "markerId": 146,
+    "markerName": "한일주유소",
+    "longitude": 129.3523123,
+    "latitude": 36.20213012
+  },
+  {
+    "markerId": 147,
+    "markerName": "농협주유소 앞",
+    "longitude": 129.2586772,
+    "latitude": 36.12131865
+  },
+  {
+    "markerId": 150,
+    "markerName": "토성삼거리",
+    "longitude": 129.2705311,
+    "latitude": 36.12870113
+  },
+  {
+    "markerId": 151,
+    "markerName": "협동상회 앞",
+    "longitude": 129.2046399,
+    "latitude": 36.07042068
+  },
+  {
+    "markerId": 152,
+    "markerName": "소방서",
+    "longitude": 129.2166992,
+    "latitude": 36.0682835
+  },
+  {
+    "markerId": 153,
+    "markerName": "7번국도",
+    "longitude": 129.3593174,
+    "latitude": 36.22722816
+  },
+  {
+    "markerId": 155,
+    "markerName": "보경사 주차장",
+    "longitude": 129.3182101,
+    "latitude": 36.24840504
+  },
+  {
+    "markerId": 178,
+    "markerName": "초곡1",
+    "longitude": 129.3399046,
+    "latitude": 36.09768691
+  },
+  {
+    "markerId": 179,
+    "markerName": "초곡2",
+    "longitude": 129.3397572,
+    "latitude": 36.09777088
+  },
+  {
+    "markerId": 184,
+    "markerName": "초곡3",
+    "longitude": 129.3400837,
+    "latitude": 36.09782982
+  },
+  {
+    "markerId": 181,
+    "markerName": "초곡 리슈빌1",
+    "longitude": 129.3325371,
+    "latitude": 36.09651068
+  },
+  {
+    "markerId": 185,
+    "markerName": "초곡 리슈빌2",
+    "longitude": 129.3325896,
+    "latitude": 36.09659525
+  },
+  {
+    "markerId": 149,
+    "markerName": "호리못근처",
+    "longitude": 129.2828914,
+    "latitude": 36.12876115
+  }
+]
