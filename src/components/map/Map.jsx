@@ -1,9 +1,10 @@
 /* eslint-disable no-undef */
 import { useEffect, useRef } from "react";
+import markerData from "../../assets/jsonData/markers.json";
+import Icon from "../../assets/markerIcon.png";
 
 const Map = () => {
   const mapRef = useRef(null);
-  const mapInstance = useRef(null);
 
   useEffect(() => {
     const initTmap = async () => {
@@ -19,17 +20,20 @@ const Map = () => {
           httpsMode: true,
         });
 
-        mapInstance.current = map;
+        markerData.forEach((marker) => {
+          const position = new Tmapv3.LatLng(marker.latitude, marker.longitude);
+          const mapMarker = new Tmapv3.Marker({
+            position: position,
+            title: marker.markerName,
+            icon: Icon,
+            iconSize: new Tmapv3.Size(33, 43),
+            map: map,
+          });
 
-        // const addListenerToMarker = (marker, markerData) => {
-        //   marker.on("click", () => onMarkerClick(markerData));
-        // };
-
-        if ("ontouchstart" in window) {
-          map.addListener("touchstart", () => {});
-        } else {
-          map.addListener("click", () => {});
-        }
+          mapMarker.addListener("click", () => {
+            alert(`마커 위치: ${marker.name}`);
+          });
+        });
       } catch (error) {
         console.error("Error initializing map: ", error);
       }
