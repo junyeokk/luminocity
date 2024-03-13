@@ -5,6 +5,7 @@ import List from "@mui/joy/List";
 import ListItem from "@mui/joy/ListItem";
 import ListItemContent from "@mui/joy/ListItemContent";
 import Typography from "@mui/joy/Typography";
+import LocationOnIcon from "@mui/icons-material/LocationOn";
 import PeopleIcon from "@mui/icons-material/People";
 import PopulationChart from "../common/charts/PopulationChart";
 import ModalClose from "@mui/joy/ModalClose";
@@ -59,6 +60,7 @@ const SidePanel = ({ selectedMarker, isOpen, onClose }) => {
           {selectedMarker ? (
             <>
               <ListItem sx={{ gap: 2, alignItems: "center", mb: 2 }}>
+                <LocationOnIcon sx={{ color: "#1976d2", fontSize: "2.5rem" }} />
                 <ListItemContent>
                   <Typography level="body1" sx={{ fontSize: "1rem" }}>
                     {selectedMarker.markerName}
