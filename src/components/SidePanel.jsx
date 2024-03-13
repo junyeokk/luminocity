@@ -8,6 +8,9 @@ import Typography from "@mui/joy/Typography";
 import LocationIcon from "@mui/icons-material/LocationOn";
 import PeopleIcon from "@mui/icons-material/People";
 import PopulationChart from "../common/charts/PopulationChart";
+import ModalClose from "@mui/joy/ModalClose";
+import { Divider, Box } from "@mui/material";
+import DialogTitle from "@mui/joy/DialogTitle";
 
 const SidePanel = ({ selectedMarker, isOpen, onClose }) => {
   return (
@@ -15,55 +18,72 @@ const SidePanel = ({ selectedMarker, isOpen, onClose }) => {
       anchor="right"
       open={isOpen}
       onClose={onClose}
-      sx={{ width: 300, bgcolor: "background.default" }}
+      variant="plain"
+      size="lg"
+      PaperProps={{
+        sx: {
+          "--Drawer-transitionDuration": open ? "0.4s" : "0.2s",
+          "--Drawer-transitionFunction": open
+            ? "cubic-bezier(0.79,0.14,0.15,0.86)"
+            : "cubic-bezier(0.77,0,0.18,1)",
+        },
+      }}
+      slotProps={{
+        content: {
+          sx: {
+            bgcolor: "transparent",
+            p: { md: 3, sm: 0 },
+            boxShadow: "none",
+          },
+        },
+      }}
     >
       <Sheet
         sx={{
-          width: "100%",
+          borderRadius: "md",
+          p: 6,
+          display: "flex",
+          flexDirection: "column",
+          gap: 2,
           height: "100%",
           overflow: "auto",
-          p: 2,
           typography: "body2",
+          backgroundColor: "rgba(255, 255, 255, 0.75)",
+          backdropFilter: "blur(10px)",
+          border: "1px solid rgba(255, 255, 255, 0.25)",
         }}
       >
-        <Typography
-          level="h6"
-          component="h2"
-          sx={{ mb: 2, color: "primary.dark" }}
-        >
-          마커 정보
-        </Typography>
-        <List>
+        <DialogTitle>장소 정보</DialogTitle>
+        <ModalClose />
+        <Divider sx={{ mt: "auto" }} />
+        <List sx={{ padding: 0 }}>
           {selectedMarker ? (
             <>
-              <ListItem sx={{ gap: 2, alignItems: "flex-start", mb: 1 }}>
-                <LocationIcon
-                  sx={{ color: "primary.main", fontSize: "1.5rem" }}
-                />
+              <ListItem sx={{ gap: 2, alignItems: "center", mb: 2 }}>
+                <LocationIcon sx={{ color: "#1976d2", fontSize: "2.5rem" }} />
                 <ListItemContent>
-                  <Typography level="body1" sx={{ fontWeight: "bold" }}>
+                  <Typography level="body1" sx={{ fontSize: "1rem" }}>
                     {selectedMarker.markerName}
                   </Typography>
                 </ListItemContent>
               </ListItem>
-              <ListItem sx={{ gap: 2, alignItems: "flex-start" }}>
-                <PeopleIcon
-                  sx={{ color: "primary.main", fontSize: "1.5rem" }}
-                />
+              <Divider sx={{ mb: 3 }} />
+              <ListItem sx={{ gap: 2, alignItems: "center", mb: 3 }}>
+                <PeopleIcon sx={{ color: "#d32f2f", fontSize: "2.5rem" }} />
                 <ListItemContent>
-                  <Typography level="body1" sx={{ fontWeight: "bold" }}>
-                    최근 3개월간 평균 유동인구
+                  <Typography level="body1" sx={{ fontSize: "1rem" }}>
+                    3개월(2023.09 ~ 2023.12)간 평균 유동인구
                   </Typography>
                 </ListItemContent>
               </ListItem>
-              <ListItem sx={{ gap: 2, alignItems: "flex-start" }}>
+              <Box sx={{ width: "100%" }}>
                 <PopulationChart />
-              </ListItem>
+              </Box>
             </>
           ) : (
             <ListItem>
               <ListItemContent>
-                <Typography sx={{ color: "text.primary" }}>
+                <Typography sx={{ color: "#757575", fontSize: "1rem" }}>
                   선택된 마커 정보가 없습니다.
                 </Typography>
               </ListItemContent>
