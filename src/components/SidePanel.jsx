@@ -1,4 +1,5 @@
 /* eslint-disable react/prop-types */
+import { useMemo } from "react";
 import Drawer from "@mui/joy/Drawer";
 import Sheet from "@mui/joy/Sheet";
 import List from "@mui/joy/List";
@@ -16,9 +17,9 @@ import BarChartIcon from "@mui/icons-material/BarChart";
 import calculateRanking from "./calculateRanking";
 
 const SidePanel = ({ selectedMarker, isOpen, onClose }) => {
-  const ranking = selectedMarker
-    ? calculateRanking(selectedMarker.markerId)
-    : null;
+  const ranking = useMemo(() => {
+    return selectedMarker ? calculateRanking(selectedMarker.markerId) : null;
+  }, [selectedMarker]);
   const totalPlaces = csvData.length;
 
   return (
@@ -28,7 +29,7 @@ const SidePanel = ({ selectedMarker, isOpen, onClose }) => {
       onClose={onClose}
       variant="plain"
       size="lg"
-      PaperProps={{
+      paperprops={{
         sx: {
           "--Drawer-transitionDuration": isOpen ? "0.4s" : "0.2s",
           "--Drawer-transitionFunction": isOpen
@@ -67,6 +68,7 @@ const SidePanel = ({ selectedMarker, isOpen, onClose }) => {
         <List sx={{ padding: 0 }}>
           {selectedMarker ? (
             <>
+              {/** 장소 이름 */}
               <ListItem sx={{ gap: 2, alignItems: "center", mb: 2 }}>
                 <LocationOnIcon sx={{ color: "#1976d2", fontSize: "2.5rem" }} />
                 <ListItemContent>
@@ -80,6 +82,7 @@ const SidePanel = ({ selectedMarker, isOpen, onClose }) => {
               </ListItem>
               <Divider sx={{ mb: 3 }} />
 
+              {/** 유동인구 */}
               <ListItem sx={{ gap: 2, alignItems: "center", mb: 3 }}>
                 <PeopleIcon sx={{ color: "#d32f2f", fontSize: "2.5rem" }} />
                 <ListItemContent>
@@ -95,6 +98,7 @@ const SidePanel = ({ selectedMarker, isOpen, onClose }) => {
                 <PopulationChart selectedMarkerId={selectedMarker?.markerId} />
               </Box>
 
+              {/** 랭킹 */}
               <Divider sx={{ mt: 3, mb: 3 }} />
               <ListItem sx={{ gap: 2, alignItems: "center", mb: 3 }}>
                 <BarChartIcon sx={{ color: "#008080", fontSize: "2.5rem" }} />
