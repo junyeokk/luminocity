@@ -2,19 +2,27 @@
 import { useState, useRef } from "react";
 import { useMap } from "../../hooks/useMap";
 import SidePanel from "../SidePanel";
+import MenuPanel from "../MenuPanel";
+import IconButton from "@mui/material/IconButton";
+import MenuIcon from "@mui/icons-material/Menu";
 
 const Map = () => {
   const [selectedMarker, setSelectedMarker] = useState(null);
-  const [isOpen, setIsOpen] = useState(false);
+  const [isSidePanelOpen, setIsSidePanelOpen] = useState(false);
+  const [isMenuPanelOpen, setIsMenuPanelOpen] = useState(false);
   const mapRef = useRef(null);
 
   useMap(mapRef, (markerData) => {
     setSelectedMarker(markerData);
-    setIsOpen(true);
+    setIsSidePanelOpen(true);
   });
 
-  const handleClose = () => {
-    setIsOpen(false);
+  const handleSidePanelClose = () => {
+    setIsSidePanelOpen(false);
+  };
+
+  const toggleMenuPanel = () => {
+    setIsMenuPanelOpen(!isMenuPanelOpen);
   };
 
   return (
@@ -29,11 +37,35 @@ const Map = () => {
           position: "fixed",
         }}
       />
+      <IconButton
+        color="inherit"
+        aria-label="open drawer"
+        edge="start"
+        onClick={toggleMenuPanel}
+        sx={{
+          position: "absolute",
+          top: 40,
+          left: 40,
+          zIndex: 1000,
+          backgroundColor: "white",
+          borderRadius: "50%",
+          boxShadow: "0 4px 6px rgba(0,0,0,0.1)",
+          padding: "15px",
+          "&:hover": {
+            backgroundColor: "white",
+            opacity: 0.8,
+          },
+        }}
+      >
+        <MenuIcon fontSize="large" />
+      </IconButton>
+
       <SidePanel
         selectedMarker={selectedMarker}
-        isOpen={isOpen}
-        onClose={handleClose}
+        isOpen={isSidePanelOpen}
+        onClose={handleSidePanelClose}
       />
+      <MenuPanel isOpen={isMenuPanelOpen} toggleMenuPanel={toggleMenuPanel} />
     </>
   );
 };
