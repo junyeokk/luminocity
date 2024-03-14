@@ -11,8 +11,32 @@ import PopulationChart from "../common/charts/PopulationChart";
 import ModalClose from "@mui/joy/ModalClose";
 import { Divider, Box } from "@mui/material";
 import DialogTitle from "@mui/joy/DialogTitle";
+import csvData from "../assets/jsonData/markers.json";
+import BarChartIcon from "@mui/icons-material/BarChart";
+
+const calculateRanking = (selectedMarkerId) => {
+  const markerTotals = csvData.map((marker) => ({
+    markerId: marker.markerId,
+    totalPopulation:
+      marker.total_population_202310 +
+      marker.total_population_202311 +
+      marker.total_population_202312,
+  }));
+  const sortedMarkers = markerTotals.sort(
+    (a, b) => b.totalPopulation - a.totalPopulation
+  );
+  const ranking =
+    sortedMarkers.findIndex((marker) => marker.markerId === selectedMarkerId) +
+    1;
+  return ranking;
+};
 
 const SidePanel = ({ selectedMarker, isOpen, onClose }) => {
+  const ranking = selectedMarker
+    ? calculateRanking(selectedMarker.markerId)
+    : null;
+  const totalPlaces = csvData.length;
+
   return (
     <Drawer
       anchor="right"
@@ -22,8 +46,8 @@ const SidePanel = ({ selectedMarker, isOpen, onClose }) => {
       size="lg"
       PaperProps={{
         sx: {
-          "--Drawer-transitionDuration": open ? "0.4s" : "0.2s",
-          "--Drawer-transitionFunction": open
+          "--Drawer-transitionDuration": isOpen ? "0.4s" : "0.2s",
+          "--Drawer-transitionFunction": isOpen
             ? "cubic-bezier(0.79,0.14,0.15,0.86)"
             : "cubic-bezier(0.77,0,0.18,1)",
         },
@@ -62,16 +86,23 @@ const SidePanel = ({ selectedMarker, isOpen, onClose }) => {
               <ListItem sx={{ gap: 2, alignItems: "center", mb: 2 }}>
                 <LocationOnIcon sx={{ color: "#1976d2", fontSize: "2.5rem" }} />
                 <ListItemContent>
-                  <Typography level="body1" sx={{ fontSize: "1rem" }}>
+                  <Typography
+                    level="body1"
+                    sx={{ fontSize: "1rem", fontWeight: "bold" }}
+                  >
                     {selectedMarker.markerName}
                   </Typography>
                 </ListItemContent>
               </ListItem>
               <Divider sx={{ mb: 3 }} />
+
               <ListItem sx={{ gap: 2, alignItems: "center", mb: 3 }}>
                 <PeopleIcon sx={{ color: "#d32f2f", fontSize: "2.5rem" }} />
                 <ListItemContent>
-                  <Typography level="body1" sx={{ fontSize: "1rem" }}>
+                  <Typography
+                    level="body1"
+                    sx={{ fontSize: "1rem", fontWeight: "bold" }}
+                  >
                     3개월(2023.09 ~ 2023.12)간 유동인구
                   </Typography>
                 </ListItemContent>
@@ -79,11 +110,52 @@ const SidePanel = ({ selectedMarker, isOpen, onClose }) => {
               <Box sx={{ width: "100%" }}>
                 <PopulationChart selectedMarkerId={selectedMarker?.markerId} />
               </Box>
+
+              <Divider sx={{ mt: 3, mb: 3 }} />
+              <ListItem sx={{ gap: 2, alignItems: "center", mb: 3 }}>
+                <BarChartIcon sx={{ color: "#008080", fontSize: "2.5rem" }} />
+                <ListItemContent sx={{ width: "100%" }}>
+                  <Box
+                    sx={{
+                      display: "flex",
+                      justifyContent: "space-between",
+                      width: "100%",
+                      alignItems: "center",
+                    }}
+                  >
+                    <Typography
+                      level="body1"
+                      sx={{ fontSize: "1.2rem", fontWeight: "bold" }}
+                    >
+                      유동인구 랭킹
+                    </Typography>
+                    <Typography
+                      level="body1"
+                      sx={{
+                        fontSize: "1.2rem",
+                        fontWeight: "bold",
+                        display: "flex",
+                        gap: "8px",
+                        alignItems: "center",
+                      }}
+                    >
+                      <span style={{ fontSize: "2.3rem" }}>{ranking} </span>
+                      <span style={{ color: "#989898" }}>/ {totalPlaces}</span>
+                    </Typography>
+                  </Box>
+                </ListItemContent>
+              </ListItem>
             </>
           ) : (
             <ListItem>
               <ListItemContent>
-                <Typography sx={{ color: "#757575", fontSize: "1rem" }}>
+                <Typography
+                  sx={{
+                    color: "#757575",
+                    fontSize: "1rem",
+                    fontWeight: "bold",
+                  }}
+                >
                   선택된 마커 정보가 없습니다.
                 </Typography>
               </ListItemContent>
