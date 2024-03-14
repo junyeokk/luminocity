@@ -1,6 +1,7 @@
 /* eslint-disable no-undef */
 import { useState, useRef } from "react";
 import { useMap } from "../../hooks/useMap";
+import { useMenuPanel } from "../../hooks/useMenuPanel";
 import SidePanel from "../SidePanel";
 import MenuPanel from "../MenuPanel";
 import IconButton from "@mui/material/IconButton";
@@ -9,7 +10,8 @@ import MenuIcon from "@mui/icons-material/Menu";
 const Map = () => {
   const [selectedMarker, setSelectedMarker] = useState(null);
   const [isSidePanelOpen, setIsSidePanelOpen] = useState(false);
-  const [isMenuPanelOpen, setIsMenuPanelOpen] = useState(false);
+  const { isOpen: isMenuPanelOpen, toggleMenu: toggleMenuPanel } =
+    useMenuPanel();
   const mapRef = useRef(null);
 
   useMap(mapRef, (markerData) => {
@@ -19,10 +21,6 @@ const Map = () => {
 
   const handleSidePanelClose = () => {
     setIsSidePanelOpen(false);
-  };
-
-  const toggleMenuPanel = () => {
-    setIsMenuPanelOpen(!isMenuPanelOpen);
   };
 
   return (
