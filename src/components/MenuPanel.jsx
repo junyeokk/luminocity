@@ -44,7 +44,7 @@ const MenuPanel = ({ isOpen, toggleMenuPanel }) => {
           border: "1px solid rgba(255, 255, 255, 0.25)",
         }}
       >
-        <DialogTitle>장소 정보</DialogTitle>
+        <DialogTitle>메뉴</DialogTitle>
         <ModalClose />
       </Sheet>
     </Drawer>
