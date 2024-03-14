@@ -13,23 +13,7 @@ import { Divider, Box } from "@mui/material";
 import DialogTitle from "@mui/joy/DialogTitle";
 import csvData from "../assets/jsonData/markers.json";
 import BarChartIcon from "@mui/icons-material/BarChart";
-
-const calculateRanking = (selectedMarkerId) => {
-  const markerTotals = csvData.map((marker) => ({
-    markerId: marker.markerId,
-    totalPopulation:
-      marker.total_population_202310 +
-      marker.total_population_202311 +
-      marker.total_population_202312,
-  }));
-  const sortedMarkers = markerTotals.sort(
-    (a, b) => b.totalPopulation - a.totalPopulation
-  );
-  const ranking =
-    sortedMarkers.findIndex((marker) => marker.markerId === selectedMarkerId) +
-    1;
-  return ranking;
-};
+import calculateRanking from "./calculateRanking";
 
 const SidePanel = ({ selectedMarker, isOpen, onClose }) => {
   const ranking = selectedMarker
