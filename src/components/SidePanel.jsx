@@ -15,10 +15,14 @@ import DialogTitle from "@mui/joy/DialogTitle";
 import csvData from "../assets/jsonData/markers.json";
 import BarChartIcon from "@mui/icons-material/BarChart";
 import calculateRanking from "./calculateRanking";
+import MoneyIcon from "@mui/icons-material/Paid";
 
 const SidePanel = ({ selectedMarker, isOpen, onClose }) => {
   const ranking = useMemo(() => {
     return selectedMarker ? calculateRanking(selectedMarker.markerId) : null;
+  }, [selectedMarker]);
+  const pricePerWeek = useMemo(() => {
+    return selectedMarker ? selectedMarker.pricePerWeek : null;
   }, [selectedMarker]);
   const totalPlaces = csvData.length;
 
@@ -129,6 +133,42 @@ const SidePanel = ({ selectedMarker, isOpen, onClose }) => {
                     >
                       <span style={{ fontSize: "2.3rem" }}>{ranking} </span>
                       <span style={{ color: "#989898" }}>/ {totalPlaces}</span>
+                    </Typography>
+                  </Box>
+                </ListItemContent>
+              </ListItem>
+
+              {/** 가격 정보 */}
+              <Divider sx={{ mb: 3 }} />
+              <ListItem sx={{ gap: 2, alignItems: "center", mb: 3 }}>
+                <MoneyIcon sx={{ color: "#FFD700", fontSize: "2.5rem" }} />
+                <ListItemContent sx={{ width: "100%" }}>
+                  <Box
+                    sx={{
+                      display: "flex",
+                      justifyContent: "space-between",
+                      width: "100%",
+                      alignItems: "center",
+                    }}
+                  >
+                    <Typography
+                      level="body1"
+                      sx={{ fontSize: "1.2rem", fontWeight: "bold" }}
+                    >
+                      게시 비용{" "}
+                    </Typography>
+                    <Typography
+                      level="body1"
+                      sx={{
+                        fontSize: "1.2rem",
+                        fontWeight: "bold",
+                        display: "flex",
+                        gap: "8px",
+                        alignItems: "center",
+                      }}
+                    >
+                      <span style={{ fontSize: "2.3rem" }}>{pricePerWeek}</span>
+                      <span style={{ color: "#989898" }}> / 7일</span>
                     </Typography>
                   </Box>
                 </ListItemContent>

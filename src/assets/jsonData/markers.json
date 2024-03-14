@@ -6,7 +6,8 @@
     "latitude": 35.99290454,
     "total_population_202310": 19628,
     "total_population_202311": 20878,
-    "total_population_202312": 19134
+    "total_population_202312": 19134,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 38,
@@ -15,7 +16,8 @@
     "latitude": 35.99291521,
     "total_population_202310": 19628,
     "total_population_202311": 20878,
-    "total_population_202312": 19134
+    "total_population_202312": 19134,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 36,
@@ -24,7 +26,8 @@
     "latitude": 35.99425124,
     "total_population_202310": 27214,
     "total_population_202311": 27558,
-    "total_population_202312": 26301
+    "total_population_202312": 26301,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 35,
@@ -33,7 +36,8 @@
     "latitude": 35.98305475,
     "total_population_202310": 5976,
     "total_population_202311": 6888,
-    "total_population_202312": 6421
+    "total_population_202312": 6421,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 172,
@@ -42,7 +46,8 @@
     "latitude": 35.98815513,
     "total_population_202310": 454,
     "total_population_202311": 650,
-    "total_population_202312": 631
+    "total_population_202312": 631,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 34,
@@ -51,7 +56,8 @@
     "latitude": 35.99421534,
     "total_population_202310": 16658,
     "total_population_202311": 17384,
-    "total_population_202312": 15948
+    "total_population_202312": 15948,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 31,
@@ -60,7 +66,8 @@
     "latitude": 35.97912441,
     "total_population_202310": 11608,
     "total_population_202311": 13368,
-    "total_population_202312": 12765
+    "total_population_202312": 12765,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 32,
@@ -69,7 +76,8 @@
     "latitude": 35.9790722,
     "total_population_202310": 10960,
     "total_population_202311": 12830,
-    "total_population_202312": 11946
+    "total_population_202312": 11946,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 29,
@@ -78,7 +86,8 @@
     "latitude": 35.99361779,
     "total_population_202310": 792,
     "total_population_202311": 946,
-    "total_population_202312": 626
+    "total_population_202312": 626,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 33,
@@ -87,7 +96,8 @@
     "latitude": 35.98678777,
     "total_population_202310": 5350,
     "total_population_202311": 5278,
-    "total_population_202312": 4238
+    "total_population_202312": 4238,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 165,
@@ -96,7 +106,8 @@
     "latitude": 35.98680403,
     "total_population_202310": 5350,
     "total_population_202311": 5278,
-    "total_population_202312": 4238
+    "total_population_202312": 4238,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 27,
@@ -105,7 +116,8 @@
     "latitude": 36.01177119,
     "total_population_202310": 62368,
     "total_population_202311": 57566,
-    "total_population_202312": 49878
+    "total_population_202312": 49878,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 28,
@@ -114,7 +126,8 @@
     "latitude": 36.01174867,
     "total_population_202310": 62368,
     "total_population_202311": 57566,
-    "total_population_202312": 49878
+    "total_population_202312": 49878,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 26,
@@ -123,7 +136,8 @@
     "latitude": 36.01023929,
     "total_population_202310": 12222,
     "total_population_202311": 12320,
-    "total_population_202312": 11386
+    "total_population_202312": 11386,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 131,
@@ -132,7 +146,8 @@
     "latitude": 36.01015863,
     "total_population_202310": 3320,
     "total_population_202311": 2894,
-    "total_population_202312": 2165
+    "total_population_202312": 2165,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 25,
@@ -141,7 +156,8 @@
     "latitude": 36.00781021,
     "total_population_202310": 11908,
     "total_population_202311": 11638,
-    "total_population_202312": 9858
+    "total_population_202312": 9858,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 23,
@@ -150,7 +166,8 @@
     "latitude": 36.0078471,
     "total_population_202310": 11908,
     "total_population_202311": 11638,
-    "total_population_202312": 9858
+    "total_population_202312": 9858,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 24,
@@ -159,7 +176,8 @@
     "latitude": 36.00830454,
     "total_population_202310": 26653,
     "total_population_202311": 26203,
-    "total_population_202312": 22784
+    "total_population_202312": 22784,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 43,
@@ -168,7 +186,8 @@
     "latitude": 36.00892325,
     "total_population_202310": 6246,
     "total_population_202311": 5830,
-    "total_population_202312": 6173
+    "total_population_202312": 6173,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 171,
@@ -177,7 +196,8 @@
     "latitude": 36.01664176,
     "total_population_202310": 22964,
     "total_population_202311": 21120,
-    "total_population_202312": 24701
+    "total_population_202312": 24701,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 1,
@@ -186,7 +206,8 @@
     "latitude": 36.01933354,
     "total_population_202310": 170081,
     "total_population_202311": 176686,
-    "total_population_202312": 170342
+    "total_population_202312": 170342,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 2,
@@ -195,7 +216,8 @@
     "latitude": 36.01930689,
     "total_population_202310": 170081,
     "total_population_202311": 176686,
-    "total_population_202312": 170342
+    "total_population_202312": 170342,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 170,
@@ -204,7 +226,8 @@
     "latitude": 36.00820459,
     "total_population_202310": 19450,
     "total_population_202311": 17750,
-    "total_population_202312": 21555
+    "total_population_202312": 21555,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 42,
@@ -213,7 +236,8 @@
     "latitude": 36.00995186,
     "total_population_202310": 44610,
     "total_population_202311": 42676,
-    "total_population_202312": 47563
+    "total_population_202312": 47563,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 22,
@@ -222,7 +246,8 @@
     "latitude": 36.01157207,
     "total_population_202310": 63106,
     "total_population_202311": 66168,
-    "total_population_202312": 64313
+    "total_population_202312": 64313,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 161,
@@ -231,7 +256,8 @@
     "latitude": 36.01161412,
     "total_population_202310": 63106,
     "total_population_202311": 66168,
-    "total_population_202312": 64313
+    "total_population_202312": 64313,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 21,
@@ -240,7 +266,8 @@
     "latitude": 36.0058165,
     "total_population_202310": 48524,
     "total_population_202311": 51056,
-    "total_population_202312": 47548
+    "total_population_202312": 47548,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 16,
@@ -249,7 +276,8 @@
     "latitude": 36.0057651,
     "total_population_202310": 48524,
     "total_population_202311": 51056,
-    "total_population_202312": 47548
+    "total_population_202312": 47548,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 18,
@@ -258,7 +286,8 @@
     "latitude": 36.00861036,
     "total_population_202310": 52678,
     "total_population_202311": 58972,
-    "total_population_202312": 59077
+    "total_population_202312": 59077,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 19,
@@ -267,7 +296,8 @@
     "latitude": 36.00862309,
     "total_population_202310": 52678,
     "total_population_202311": 58972,
-    "total_population_202312": 59077
+    "total_population_202312": 59077,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 180,
@@ -276,7 +306,8 @@
     "latitude": 36.0086335,
     "total_population_202310": 52678,
     "total_population_202311": 58972,
-    "total_population_202312": 59077
+    "total_population_202312": 59077,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 13,
@@ -285,7 +316,8 @@
     "latitude": 36.01952822,
     "total_population_202310": 3418,
     "total_population_202311": 3072,
-    "total_population_202312": 3525
+    "total_population_202312": 3525,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 14,
@@ -294,7 +326,8 @@
     "latitude": 36.01943788,
     "total_population_202310": 3486,
     "total_population_202311": 3194,
-    "total_population_202312": 3579
+    "total_population_202312": 3579,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 12,
@@ -303,7 +336,8 @@
     "latitude": 36.02561489,
     "total_population_202310": 4166,
     "total_population_202311": 4444,
-    "total_population_202312": 3719
+    "total_population_202312": 3719,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 11,
@@ -312,7 +346,8 @@
     "latitude": 36.02552503,
     "total_population_202310": 43820,
     "total_population_202311": 42955,
-    "total_population_202312": 48080
+    "total_population_202312": 48080,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 182,
@@ -321,7 +356,8 @@
     "latitude": 36.02557184,
     "total_population_202310": 43820,
     "total_population_202311": 42955,
-    "total_population_202312": 48080
+    "total_population_202312": 48080,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 158,
@@ -330,7 +366,8 @@
     "latitude": 36.0316615,
     "total_population_202310": 7018,
     "total_population_202311": 7614,
-    "total_population_202312": 7734
+    "total_population_202312": 7734,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 10,
@@ -339,7 +376,8 @@
     "latitude": 36.03170406,
     "total_population_202310": 7172,
     "total_population_202311": 7832,
-    "total_population_202312": 7945
+    "total_population_202312": 7945,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 7,
@@ -348,7 +386,8 @@
     "latitude": 36.03242854,
     "total_population_202310": 7268,
     "total_population_202311": 9186,
-    "total_population_202312": 7633
+    "total_population_202312": 7633,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 8,
@@ -357,7 +396,8 @@
     "latitude": 36.03240615,
     "total_population_202310": 7268,
     "total_population_202311": 9186,
-    "total_population_202312": 7633
+    "total_population_202312": 7633,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 9,
@@ -366,7 +406,8 @@
     "latitude": 36.03241627,
     "total_population_202310": 7268,
     "total_population_202311": 9186,
-    "total_population_202312": 7633
+    "total_population_202312": 7633,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 5,
@@ -375,7 +416,8 @@
     "latitude": 36.02933607,
     "total_population_202310": 34004,
     "total_population_202311": 30648,
-    "total_population_202312": 22852
+    "total_population_202312": 22852,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 99,
@@ -384,7 +426,8 @@
     "latitude": 36.03349552,
     "total_population_202310": 15834,
     "total_population_202311": 13230,
-    "total_population_202312": 19705
+    "total_population_202312": 19705,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 98,
@@ -393,7 +436,8 @@
     "latitude": 36.03913779,
     "total_population_202310": 3047,
     "total_population_202311": 2624,
-    "total_population_202312": 3730
+    "total_population_202312": 3730,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 96,
@@ -402,7 +446,8 @@
     "latitude": 36.04592145,
     "total_population_202310": 11158,
     "total_population_202311": 10390,
-    "total_population_202312": 12352
+    "total_population_202312": 12352,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 97,
@@ -411,7 +456,8 @@
     "latitude": 36.04600778,
     "total_population_202310": 11158,
     "total_population_202311": 10390,
-    "total_population_202312": 12352
+    "total_population_202312": 12352,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 157,
@@ -420,7 +466,8 @@
     "latitude": 36.04594298,
     "total_population_202310": 11158,
     "total_population_202311": 10390,
-    "total_population_202312": 12352
+    "total_population_202312": 12352,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 44,
@@ -429,7 +476,8 @@
     "latitude": 36.0388797,
     "total_population_202310": 6022,
     "total_population_202311": 6062,
-    "total_population_202312": 8567
+    "total_population_202312": 8567,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 45,
@@ -438,7 +486,8 @@
     "latitude": 36.05142526,
     "total_population_202310": 27408,
     "total_population_202311": 27104,
-    "total_population_202312": 26749
+    "total_population_202312": 26749,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 40,
@@ -447,7 +496,8 @@
     "latitude": 36.03991021,
     "total_population_202310": 4370,
     "total_population_202311": 3372,
-    "total_population_202312": 5432
+    "total_population_202312": 5432,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 41,
@@ -456,7 +506,8 @@
     "latitude": 36.02353197,
     "total_population_202310": 2582,
     "total_population_202311": 2316,
-    "total_population_202312": 2033
+    "total_population_202312": 2033,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 189,
@@ -465,7 +516,8 @@
     "latitude": 36.03912952,
     "total_population_202310": 3047,
     "total_population_202311": 2624,
-    "total_population_202312": 3730
+    "total_population_202312": 3730,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 190,
@@ -474,7 +526,8 @@
     "latitude": 36.02910291,
     "total_population_202310": 18008,
     "total_population_202311": 15522,
-    "total_population_202312": 17082
+    "total_population_202312": 17082,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 183,
@@ -483,7 +536,8 @@
     "latitude": 35.97574034,
     "total_population_202310": 32250,
     "total_population_202311": 34710,
-    "total_population_202312": 29681
+    "total_population_202312": 29681,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 100,
@@ -492,7 +546,8 @@
     "latitude": 35.99911741,
     "total_population_202310": 23966,
     "total_population_202311": 22716,
-    "total_population_202312": 23042
+    "total_population_202312": 23042,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 101,
@@ -501,7 +556,8 @@
     "latitude": 0,
     "total_population_202310": 0,
     "total_population_202311": 0,
-    "total_population_202312": 0
+    "total_population_202312": 0,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 102,
@@ -510,7 +566,8 @@
     "latitude": 35.99524785,
     "total_population_202310": 7426,
     "total_population_202311": 6648,
-    "total_population_202312": 5205
+    "total_population_202312": 5205,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 103,
@@ -519,7 +576,8 @@
     "latitude": 35.99264195,
     "total_population_202310": 4796,
     "total_population_202311": 7550,
-    "total_population_202312": 5396
+    "total_population_202312": 5396,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 104,
@@ -528,7 +586,8 @@
     "latitude": 35.98841818,
     "total_population_202310": 4004,
     "total_population_202311": 3423,
-    "total_population_202312": 2799
+    "total_population_202312": 2799,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 107,
@@ -537,7 +596,8 @@
     "latitude": 35.96729127,
     "total_population_202310": 584,
     "total_population_202311": 866,
-    "total_population_202312": 334
+    "total_population_202312": 334,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 108,
@@ -546,7 +606,8 @@
     "latitude": 35.97422836,
     "total_population_202310": 1540,
     "total_population_202311": 1422,
-    "total_population_202312": 966
+    "total_population_202312": 966,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 109,
@@ -555,7 +616,8 @@
     "latitude": 35.97829602,
     "total_population_202310": 324,
     "total_population_202311": 286,
-    "total_population_202312": 276
+    "total_population_202312": 276,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 110,
@@ -564,7 +626,8 @@
     "latitude": 35.97672972,
     "total_population_202310": 14736,
     "total_population_202311": 18666,
-    "total_population_202312": 15646
+    "total_population_202312": 15646,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 111,
@@ -573,7 +636,8 @@
     "latitude": 35.97667875,
     "total_population_202310": 48808,
     "total_population_202311": 51088,
-    "total_population_202312": 41928
+    "total_population_202312": 41928,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 112,
@@ -582,7 +646,8 @@
     "latitude": 35.97583786,
     "total_population_202310": 32250,
     "total_population_202311": 34710,
-    "total_population_202312": 29681
+    "total_population_202312": 29681,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 113,
@@ -591,7 +656,8 @@
     "latitude": 35.96343749,
     "total_population_202310": 26448,
     "total_population_202311": 31386,
-    "total_population_202312": 30136
+    "total_population_202312": 30136,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 114,
@@ -600,7 +666,8 @@
     "latitude": 35.96333641,
     "total_population_202310": 26448,
     "total_population_202311": 31386,
-    "total_population_202312": 30136
+    "total_population_202312": 30136,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 115,
@@ -609,7 +676,8 @@
     "latitude": 35.9617009,
     "total_population_202310": 42476,
     "total_population_202311": 54482,
-    "total_population_202312": 39477
+    "total_population_202312": 39477,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 116,
@@ -618,7 +686,8 @@
     "latitude": 35.96164762,
     "total_population_202310": 42476,
     "total_population_202311": 54482,
-    "total_population_202312": 39477
+    "total_population_202312": 39477,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 117,
@@ -627,7 +696,8 @@
     "latitude": 35.96188164,
     "total_population_202310": 1360,
     "total_population_202311": 1598,
-    "total_population_202312": 772
+    "total_population_202312": 772,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 118,
@@ -636,7 +706,8 @@
     "latitude": 35.96150018,
     "total_population_202310": 10856,
     "total_population_202311": 12671,
-    "total_population_202312": 7997
+    "total_population_202312": 7997,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 119,
@@ -645,7 +716,8 @@
     "latitude": 35.96145338,
     "total_population_202310": 14080,
     "total_population_202311": 17406,
-    "total_population_202312": 11442
+    "total_population_202312": 11442,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 30,
@@ -654,7 +726,8 @@
     "latitude": 35.97078875,
     "total_population_202310": 17510,
     "total_population_202311": 20800,
-    "total_population_202312": 17592
+    "total_population_202312": 17592,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 167,
@@ -663,7 +736,8 @@
     "latitude": 35.95966067,
     "total_population_202310": 4394,
     "total_population_202311": 4376,
-    "total_population_202312": 3532
+    "total_population_202312": 3532,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 122,
@@ -672,7 +746,8 @@
     "latitude": 35.98953693,
     "total_population_202310": 5864,
     "total_population_202311": 6588,
-    "total_population_202312": 5673
+    "total_population_202312": 5673,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 123,
@@ -681,7 +756,8 @@
     "latitude": 35.98805084,
     "total_population_202310": 13156,
     "total_population_202311": 13010,
-    "total_population_202312": 12594
+    "total_population_202312": 12594,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 125,
@@ -690,7 +766,8 @@
     "latitude": 35.99042205,
     "total_population_202310": 236,
     "total_population_202311": 308,
-    "total_population_202312": 270
+    "total_population_202312": 270,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 126,
@@ -699,7 +776,8 @@
     "latitude": 35.9822873,
     "total_population_202310": 298,
     "total_population_202311": 316,
-    "total_population_202312": 438
+    "total_population_202312": 438,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 127,
@@ -708,7 +786,8 @@
     "latitude": 35.9889848,
     "total_population_202310": 572,
     "total_population_202311": 1060,
-    "total_population_202312": 530
+    "total_population_202312": 530,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 128,
@@ -717,7 +796,8 @@
     "latitude": 35.99108332,
     "total_population_202310": 460,
     "total_population_202311": 984,
-    "total_population_202312": 618
+    "total_population_202312": 618,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 129,
@@ -726,7 +806,8 @@
     "latitude": 35.97972917,
     "total_population_202310": 144,
     "total_population_202311": 164,
-    "total_population_202312": 32
+    "total_population_202312": 32,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 130,
@@ -735,7 +816,8 @@
     "latitude": 36.07797464,
     "total_population_202310": 28,
     "total_population_202311": 62,
-    "total_population_202312": 52
+    "total_population_202312": 52,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 132,
@@ -744,7 +826,8 @@
     "latitude": 35.89718597,
     "total_population_202310": 40,
     "total_population_202311": 54,
-    "total_population_202312": 20
+    "total_population_202312": 20,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 191,
@@ -753,7 +836,8 @@
     "latitude": 36.00762137,
     "total_population_202310": 24892,
     "total_population_202311": 30002,
-    "total_population_202312": 30346
+    "total_population_202312": 30346,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 192,
@@ -762,7 +846,8 @@
     "latitude": 36.00810295,
     "total_population_202310": 21216,
     "total_population_202311": 23092,
-    "total_population_202312": 17215
+    "total_population_202312": 17215,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 193,
@@ -771,7 +856,8 @@
     "latitude": 36.0080665,
     "total_population_202310": 21216,
     "total_population_202311": 23092,
-    "total_population_202312": 17215
+    "total_population_202312": 17215,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 46,
@@ -780,7 +866,8 @@
     "latitude": 36.05845112,
     "total_population_202310": 56686,
     "total_population_202311": 43532,
-    "total_population_202312": 49441
+    "total_population_202312": 49441,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 177,
@@ -789,7 +876,8 @@
     "latitude": 36.0519552,
     "total_population_202310": 34724,
     "total_population_202311": 35044,
-    "total_population_202312": 34776
+    "total_population_202312": 34776,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 176,
@@ -798,7 +886,8 @@
     "latitude": 36.05851224,
     "total_population_202310": 56686,
     "total_population_202311": 43532,
-    "total_population_202312": 49441
+    "total_population_202312": 49441,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 47,
@@ -807,7 +896,8 @@
     "latitude": 36.04934226,
     "total_population_202310": 8424,
     "total_population_202311": 10082,
-    "total_population_202312": 11058
+    "total_population_202312": 11058,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 48,
@@ -816,7 +906,8 @@
     "latitude": 36.04783327,
     "total_population_202310": 19572,
     "total_population_202311": 22076,
-    "total_population_202312": 19412
+    "total_population_202312": 19412,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 49,
@@ -825,7 +916,8 @@
     "latitude": 36.04780574,
     "total_population_202310": 19572,
     "total_population_202311": 22076,
-    "total_population_202312": 19412
+    "total_population_202312": 19412,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 51,
@@ -834,7 +926,8 @@
     "latitude": 36.05212898,
     "total_population_202310": 44486,
     "total_population_202311": 40056,
-    "total_population_202312": 47580
+    "total_population_202312": 47580,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 52,
@@ -843,7 +936,8 @@
     "latitude": 36.05779196,
     "total_population_202310": 22554,
     "total_population_202311": 24320,
-    "total_population_202312": 22327
+    "total_population_202312": 22327,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 53,
@@ -852,7 +946,8 @@
     "latitude": 36.0611994,
     "total_population_202310": 32188,
     "total_population_202311": 36850,
-    "total_population_202312": 40091
+    "total_population_202312": 40091,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 54,
@@ -861,7 +956,8 @@
     "latitude": 36.06115435,
     "total_population_202310": 32188,
     "total_population_202311": 36850,
-    "total_population_202312": 40091
+    "total_population_202312": 40091,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 55,
@@ -870,7 +966,8 @@
     "latitude": 36.06410165,
     "total_population_202310": 10238,
     "total_population_202311": 9796,
-    "total_population_202312": 10734
+    "total_population_202312": 10734,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 56,
@@ -879,7 +976,8 @@
     "latitude": 36.06404759,
     "total_population_202310": 10238,
     "total_population_202311": 9796,
-    "total_population_202312": 10734
+    "total_population_202312": 10734,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 57,
@@ -888,7 +986,8 @@
     "latitude": 36.06402982,
     "total_population_202310": 10238,
     "total_population_202311": 9796,
-    "total_population_202312": 10734
+    "total_population_202312": 10734,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 58,
@@ -897,7 +996,8 @@
     "latitude": 36.06326746,
     "total_population_202310": 28060,
     "total_population_202311": 19900,
-    "total_population_202312": 23477
+    "total_population_202312": 23477,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 59,
@@ -906,7 +1006,8 @@
     "latitude": 36.06449469,
     "total_population_202310": 19774,
     "total_population_202311": 18575,
-    "total_population_202312": 21514
+    "total_population_202312": 21514,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 60,
@@ -915,7 +1016,8 @@
     "latitude": 36.06724293,
     "total_population_202310": 6900,
     "total_population_202311": 6104,
-    "total_population_202312": 7036
+    "total_population_202312": 7036,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 61,
@@ -924,7 +1026,8 @@
     "latitude": 36.074811,
     "total_population_202310": 15314,
     "total_population_202311": 19426,
-    "total_population_202312": 19548
+    "total_population_202312": 19548,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 62,
@@ -933,7 +1036,8 @@
     "latitude": 36.07480335,
     "total_population_202310": 15314,
     "total_population_202311": 19426,
-    "total_population_202312": 19548
+    "total_population_202312": 19548,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 63,
@@ -942,7 +1046,8 @@
     "latitude": 36.07485935,
     "total_population_202310": 15314,
     "total_population_202311": 19426,
-    "total_population_202312": 19548
+    "total_population_202312": 19548,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 64,
@@ -951,7 +1056,8 @@
     "latitude": 36.07590834,
     "total_population_202310": 4570,
     "total_population_202311": 3668,
-    "total_population_202312": 4536
+    "total_population_202312": 4536,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 65,
@@ -960,7 +1066,8 @@
     "latitude": 36.07593589,
     "total_population_202310": 4570,
     "total_population_202311": 3668,
-    "total_population_202312": 4536
+    "total_population_202312": 4536,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 66,
@@ -969,7 +1076,8 @@
     "latitude": 36.07619181,
     "total_population_202310": 6066,
     "total_population_202311": 3478,
-    "total_population_202312": 5238
+    "total_population_202312": 5238,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 67,
@@ -978,7 +1086,8 @@
     "latitude": 36.07621112,
     "total_population_202310": 6066,
     "total_population_202311": 3478,
-    "total_population_202312": 5238
+    "total_population_202312": 5238,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 156,
@@ -987,7 +1096,8 @@
     "latitude": 36.07625315,
     "total_population_202310": 6070,
     "total_population_202311": 3494,
-    "total_population_202312": 5288
+    "total_population_202312": 5288,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 68,
@@ -996,7 +1106,8 @@
     "latitude": 36.06974676,
     "total_population_202310": 4524,
     "total_population_202311": 3997,
-    "total_population_202312": 3844
+    "total_population_202312": 3844,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 69,
@@ -1005,7 +1116,8 @@
     "latitude": 36.06626647,
     "total_population_202310": 7002,
     "total_population_202311": 7530,
-    "total_population_202312": 8132
+    "total_population_202312": 8132,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 70,
@@ -1014,7 +1126,8 @@
     "latitude": 36.06721554,
     "total_population_202310": 1594,
     "total_population_202311": 1486,
-    "total_population_202312": 1589
+    "total_population_202312": 1589,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 173,
@@ -1023,7 +1136,8 @@
     "latitude": 36.0672148,
     "total_population_202310": 8,
     "total_population_202311": 80,
-    "total_population_202312": 108
+    "total_population_202312": 108,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 71,
@@ -1032,7 +1146,8 @@
     "latitude": 36.07564205,
     "total_population_202310": 3578,
     "total_population_202311": 2208,
-    "total_population_202312": 3553
+    "total_population_202312": 3553,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 72,
@@ -1041,7 +1156,8 @@
     "latitude": 36.07627892,
     "total_population_202310": 4296,
     "total_population_202311": 2636,
-    "total_population_202312": 4168
+    "total_population_202312": 4168,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 73,
@@ -1050,7 +1166,8 @@
     "latitude": 36.07625868,
     "total_population_202310": 4214,
     "total_population_202311": 2628,
-    "total_population_202312": 4109
+    "total_population_202312": 4109,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 83,
@@ -1059,7 +1176,8 @@
     "latitude": 36.07964638,
     "total_population_202310": 354,
     "total_population_202311": 136,
-    "total_population_202312": 257
+    "total_population_202312": 257,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 168,
@@ -1068,7 +1186,8 @@
     "latitude": 36.08191411,
     "total_population_202310": 5302,
     "total_population_202311": 1822,
-    "total_population_202312": 2640
+    "total_population_202312": 2640,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 159,
@@ -1077,7 +1196,8 @@
     "latitude": 36.07968252,
     "total_population_202310": 354,
     "total_population_202311": 136,
-    "total_population_202312": 257
+    "total_population_202312": 257,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 74,
@@ -1086,7 +1206,8 @@
     "latitude": 36.08191775,
     "total_population_202310": 5302,
     "total_population_202311": 1822,
-    "total_population_202312": 2640
+    "total_population_202312": 2640,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 78,
@@ -1095,7 +1216,8 @@
     "latitude": 36.08654614,
     "total_population_202310": 5518,
     "total_population_202311": 8276,
-    "total_population_202312": 5858
+    "total_population_202312": 5858,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 75,
@@ -1104,7 +1226,8 @@
     "latitude": 36.08645461,
     "total_population_202310": 6312,
     "total_population_202311": 9362,
-    "total_population_202312": 6285
+    "total_population_202312": 6285,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 164,
@@ -1113,7 +1236,8 @@
     "latitude": 36.08879682,
     "total_population_202310": 2248,
     "total_population_202311": 1798,
-    "total_population_202312": 1743
+    "total_population_202312": 1743,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 169,
@@ -1122,7 +1246,8 @@
     "latitude": 36.05824662,
     "total_population_202310": 30608,
     "total_population_202311": 32962,
-    "total_population_202312": 31413
+    "total_population_202312": 31413,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 76,
@@ -1131,7 +1256,8 @@
     "latitude": 36.08642926,
     "total_population_202310": 6312,
     "total_population_202311": 9362,
-    "total_population_202312": 6285
+    "total_population_202312": 6285,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 77,
@@ -1140,7 +1266,8 @@
     "latitude": 36.08659682,
     "total_population_202310": 6890,
     "total_population_202311": 6280,
-    "total_population_202312": 4734
+    "total_population_202312": 4734,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 79,
@@ -1149,7 +1276,8 @@
     "latitude": 36.08982039,
     "total_population_202310": 16472,
     "total_population_202311": 15150,
-    "total_population_202312": 16381
+    "total_population_202312": 16381,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 80,
@@ -1158,7 +1286,8 @@
     "latitude": 36.09010494,
     "total_population_202310": 11980,
     "total_population_202311": 11504,
-    "total_population_202312": 12186
+    "total_population_202312": 12186,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 81,
@@ -1167,7 +1296,8 @@
     "latitude": 36.09015712,
     "total_population_202310": 11980,
     "total_population_202311": 11504,
-    "total_population_202312": 12186
+    "total_population_202312": 12186,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 82,
@@ -1176,7 +1306,8 @@
     "latitude": 36.09023092,
     "total_population_202310": 10322,
     "total_population_202311": 10250,
-    "total_population_202312": 10742
+    "total_population_202312": 10742,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 163,
@@ -1185,7 +1316,8 @@
     "latitude": 36.09591525,
     "total_population_202310": 680,
     "total_population_202311": 554,
-    "total_population_202312": 866
+    "total_population_202312": 866,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 3,
@@ -1194,7 +1326,8 @@
     "latitude": 36.09596478,
     "total_population_202310": 680,
     "total_population_202311": 554,
-    "total_population_202312": 866
+    "total_population_202312": 866,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 84,
@@ -1203,7 +1336,8 @@
     "latitude": 36.08370671,
     "total_population_202310": 3512,
     "total_population_202311": 3560,
-    "total_population_202312": 3115
+    "total_population_202312": 3115,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 85,
@@ -1212,7 +1346,8 @@
     "latitude": 36.07278826,
     "total_population_202310": 30032,
     "total_population_202311": 30872,
-    "total_population_202312": 30571
+    "total_population_202312": 30571,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 86,
@@ -1221,7 +1356,8 @@
     "latitude": 36.07271631,
     "total_population_202310": 41471,
     "total_population_202311": 42576,
-    "total_population_202312": 44981
+    "total_population_202312": 44981,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 87,
@@ -1230,7 +1366,8 @@
     "latitude": 36.07253688,
     "total_population_202310": 41471,
     "total_population_202311": 42576,
-    "total_population_202312": 44981
+    "total_population_202312": 44981,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 88,
@@ -1239,7 +1376,8 @@
     "latitude": 36.0724657,
     "total_population_202310": 41471,
     "total_population_202311": 42576,
-    "total_population_202312": 44981
+    "total_population_202312": 44981,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 89,
@@ -1248,7 +1386,8 @@
     "latitude": 36.05817075,
     "total_population_202310": 23900,
     "total_population_202311": 25946,
-    "total_population_202312": 24248
+    "total_population_202312": 24248,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 90,
@@ -1257,7 +1396,8 @@
     "latitude": 36.05815324,
     "total_population_202310": 23900,
     "total_population_202311": 25946,
-    "total_population_202312": 24248
+    "total_population_202312": 24248,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 91,
@@ -1266,7 +1406,8 @@
     "latitude": 36.05455509,
     "total_population_202310": 20759,
     "total_population_202311": 23084,
-    "total_population_202312": 24136
+    "total_population_202312": 24136,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 92,
@@ -1275,7 +1416,8 @@
     "latitude": 36.05461677,
     "total_population_202310": 21033,
     "total_population_202311": 23508,
-    "total_population_202312": 24733
+    "total_population_202312": 24733,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 162,
@@ -1284,7 +1426,8 @@
     "latitude": 36.05432518,
     "total_population_202310": 35485,
     "total_population_202311": 36046,
-    "total_population_202312": 41203
+    "total_population_202312": 41203,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 93,
@@ -1293,7 +1436,8 @@
     "latitude": 36.05260867,
     "total_population_202310": 63074,
     "total_population_202311": 60452,
-    "total_population_202312": 70596
+    "total_population_202312": 70596,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 94,
@@ -1302,7 +1446,8 @@
     "latitude": 36.05249095,
     "total_population_202310": 63074,
     "total_population_202311": 60452,
-    "total_population_202312": 70596
+    "total_population_202312": 70596,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 95,
@@ -1311,7 +1456,8 @@
     "latitude": 36.05238439,
     "total_population_202310": 56444,
     "total_population_202311": 53408,
-    "total_population_202312": 62275
+    "total_population_202312": 62275,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 187,
@@ -1320,7 +1466,8 @@
     "latitude": 36.0785684,
     "total_population_202310": 49668,
     "total_population_202311": 45096,
-    "total_population_202312": 47353
+    "total_population_202312": 47353,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 133,
@@ -1329,7 +1476,8 @@
     "latitude": 36.10940438,
     "total_population_202310": 11414,
     "total_population_202311": 9466,
-    "total_population_202312": 9141
+    "total_population_202312": 9141,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 134,
@@ -1338,7 +1486,8 @@
     "latitude": 36.10726243,
     "total_population_202310": 7486,
     "total_population_202311": 5336,
-    "total_population_202312": 5824
+    "total_population_202312": 5824,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 135,
@@ -1347,7 +1496,8 @@
     "latitude": 36.11159249,
     "total_population_202310": 26581,
     "total_population_202311": 22878,
-    "total_population_202312": 20987
+    "total_population_202312": 20987,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 136,
@@ -1356,7 +1506,8 @@
     "latitude": 36.11169157,
     "total_population_202310": 26581,
     "total_population_202311": 22878,
-    "total_population_202312": 20987
+    "total_population_202312": 20987,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 137,
@@ -1365,7 +1516,8 @@
     "latitude": 36.11034539,
     "total_population_202310": 26482,
     "total_population_202311": 29238,
-    "total_population_202312": 30175
+    "total_population_202312": 30175,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 138,
@@ -1374,7 +1526,8 @@
     "latitude": 36.10492919,
     "total_population_202310": 2464,
     "total_population_202311": 2888,
-    "total_population_202312": 3762
+    "total_population_202312": 3762,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 139,
@@ -1383,7 +1536,8 @@
     "latitude": 36.08943497,
     "total_population_202310": 1590,
     "total_population_202311": 1324,
-    "total_population_202312": 1618
+    "total_population_202312": 1618,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 140,
@@ -1392,7 +1546,8 @@
     "latitude": 36.07872644,
     "total_population_202310": 54900,
     "total_population_202311": 51192,
-    "total_population_202312": 53629
+    "total_population_202312": 53629,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 186,
@@ -1401,7 +1556,8 @@
     "latitude": 36.07861735,
     "total_population_202310": 50782,
     "total_population_202311": 46274,
-    "total_population_202312": 48661
+    "total_population_202312": 48661,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 141,
@@ -1410,7 +1566,8 @@
     "latitude": 36.13019707,
     "total_population_202310": 5278,
     "total_population_202311": 4287,
-    "total_population_202312": 2260
+    "total_population_202312": 2260,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 143,
@@ -1419,7 +1576,8 @@
     "latitude": 36.20112965,
     "total_population_202310": 38,
     "total_population_202311": 120,
-    "total_population_202312": 10
+    "total_population_202312": 10,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 144,
@@ -1428,7 +1586,8 @@
     "latitude": 36.1908133,
     "total_population_202310": 46,
     "total_population_202311": 40,
-    "total_population_202312": 28
+    "total_population_202312": 28,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 145,
@@ -1437,7 +1596,8 @@
     "latitude": 36.20343374,
     "total_population_202310": 38,
     "total_population_202311": 16,
-    "total_population_202312": 4
+    "total_population_202312": 4,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 146,
@@ -1446,7 +1606,8 @@
     "latitude": 36.20213012,
     "total_population_202310": 852,
     "total_population_202311": 610,
-    "total_population_202312": 448
+    "total_population_202312": 448,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 147,
@@ -1455,7 +1616,8 @@
     "latitude": 36.12131865,
     "total_population_202310": 118,
     "total_population_202311": 94,
-    "total_population_202312": 116
+    "total_population_202312": 116,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 150,
@@ -1464,7 +1626,8 @@
     "latitude": 36.12870113,
     "total_population_202310": 54,
     "total_population_202311": 38,
-    "total_population_202312": 29
+    "total_population_202312": 29,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 151,
@@ -1473,7 +1636,8 @@
     "latitude": 36.07042068,
     "total_population_202310": 196,
     "total_population_202311": 208,
-    "total_population_202312": 6
+    "total_population_202312": 6,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 152,
@@ -1482,7 +1646,8 @@
     "latitude": 36.0682835,
     "total_population_202310": 2,
     "total_population_202311": 12,
-    "total_population_202312": 10
+    "total_population_202312": 10,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 153,
@@ -1491,7 +1656,8 @@
     "latitude": 36.22722816,
     "total_population_202310": 532,
     "total_population_202311": 288,
-    "total_population_202312": 64
+    "total_population_202312": 64,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 155,
@@ -1500,7 +1666,8 @@
     "latitude": 36.24840504,
     "total_population_202310": 36,
     "total_population_202311": 0,
-    "total_population_202312": 6
+    "total_population_202312": 6,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 178,
@@ -1509,7 +1676,8 @@
     "latitude": 36.09768691,
     "total_population_202310": 2924,
     "total_population_202311": 2102,
-    "total_population_202312": 3649
+    "total_population_202312": 3649,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 179,
@@ -1518,7 +1686,8 @@
     "latitude": 36.09777088,
     "total_population_202310": 2924,
     "total_population_202311": 2102,
-    "total_population_202312": 3649
+    "total_population_202312": 3649,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 184,
@@ -1527,7 +1696,8 @@
     "latitude": 36.09782982,
     "total_population_202310": 2972,
     "total_population_202311": 2154,
-    "total_population_202312": 3786
+    "total_population_202312": 3786,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 181,
@@ -1536,7 +1706,8 @@
     "latitude": 36.09651068,
     "total_population_202310": 688,
     "total_population_202311": 1070,
-    "total_population_202312": 1437
+    "total_population_202312": 1437,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 185,
@@ -1545,7 +1716,8 @@
     "latitude": 36.09659525,
     "total_population_202310": 688,
     "total_population_202311": 1070,
-    "total_population_202312": 1437
+    "total_population_202312": 1437,
+    "pricePerWeek": 10700
   },
   {
     "markerId": 149,
@@ -1554,6 +1726,7 @@
     "latitude": 36.12876115,
     "total_population_202310": 4,
     "total_population_202311": 26,
-    "total_population_202312": 4
+    "total_population_202312": 4,
+    "pricePerWeek": 10700
   }
 ]
