@@ -72,12 +72,12 @@ const SidePanel = ({ selectedMarker, isOpen, onClose }) => {
                 <PeopleIcon sx={{ color: "#d32f2f", fontSize: "2.5rem" }} />
                 <ListItemContent>
                   <Typography level="body1" sx={{ fontSize: "1rem" }}>
-                    3개월(2023.09 ~ 2023.12)간 평균 유동인구
+                    3개월(2023.09 ~ 2023.12)간 유동인구
                   </Typography>
                 </ListItemContent>
               </ListItem>
               <Box sx={{ width: "100%" }}>
-                <PopulationChart />
+                <PopulationChart selectedMarkerId={selectedMarker?.markerId} />
               </Box>
             </>
           ) : (

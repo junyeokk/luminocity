@@ -3,1038 +3,1557 @@
     "markerId": 37,
     "markerName": "인덕이마트앞1",
     "longitude": 129.3975473,
-    "latitude": 35.99290454
+    "latitude": 35.99290454,
+    "total_population_202310": 19628,
+    "total_population_202311": 20878,
+    "total_population_202312": 19134
   },
   {
     "markerId": 38,
     "markerName": "인덕이마트앞2",
     "longitude": 129.3974644,
-    "latitude": 35.99291521
+    "latitude": 35.99291521,
+    "total_population_202310": 19628,
+    "total_population_202311": 20878,
+    "total_population_202312": 19134
   },
   {
     "markerId": 36,
     "markerName": "청림삼거리",
     "longitude": 129.4023999,
-    "latitude": 35.99425124
+    "latitude": 35.99425124,
+    "total_population_202310": 27214,
+    "total_population_202311": 27558,
+    "total_population_202312": 26301
   },
   {
     "markerId": 35,
     "markerName": "제일장례맞은편2",
     "longitude": 129.4055189,
-    "latitude": 35.98305475
+    "latitude": 35.98305475,
+    "total_population_202310": 5976,
+    "total_population_202311": 6888,
+    "total_population_202312": 6421
   },
   {
     "markerId": 172,
     "markerName": "제일장례맞은편1",
     "longitude": 129.4025586,
-    "latitude": 35.98815513
+    "latitude": 35.98815513,
+    "total_population_202310": 454,
+    "total_population_202311": 650,
+    "total_population_202312": 631
   },
   {
     "markerId": 34,
     "markerName": "청림삼거리2",
     "longitude": 129.4023932,
-    "latitude": 35.99421534
+    "latitude": 35.99421534,
+    "total_population_202310": 16658,
+    "total_population_202311": 17384,
+    "total_population_202312": 15948
   },
   {
     "markerId": 31,
     "markerName": "근로복지1",
     "longitude": 129.3797683,
-    "latitude": 35.97912441
+    "latitude": 35.97912441,
+    "total_population_202310": 11608,
+    "total_population_202311": 13368,
+    "total_population_202312": 12765
   },
   {
     "markerId": 32,
     "markerName": "근로복지2",
     "longitude": 129.3796753,
-    "latitude": 35.9790722
+    "latitude": 35.9790722,
+    "total_population_202310": 10960,
+    "total_population_202311": 12830,
+    "total_population_202312": 11946
   },
   {
     "markerId": 29,
     "markerName": "폴리텍",
     "longitude": 129.3766215,
-    "latitude": 35.99361779
+    "latitude": 35.99361779,
+    "total_population_202310": 792,
+    "total_population_202311": 946,
+    "total_population_202312": 626
   },
   {
     "markerId": 33,
     "markerName": "신기동1",
     "longitude": 129.3632335,
-    "latitude": 35.98678777
+    "latitude": 35.98678777,
+    "total_population_202310": 5350,
+    "total_population_202311": 5278,
+    "total_population_202312": 4238
   },
   {
     "markerId": 165,
     "markerName": "신기동2",
     "longitude": 129.3633227,
-    "latitude": 35.98680403
+    "latitude": 35.98680403,
+    "total_population_202310": 5350,
+    "total_population_202311": 5278,
+    "total_population_202312": 4238
   },
   {
     "markerId": 27,
     "markerName": "형산교1",
     "longitude": 129.3707481,
-    "latitude": 36.01177119
+    "latitude": 36.01177119,
+    "total_population_202310": 62368,
+    "total_population_202311": 57566,
+    "total_population_202312": 49878
   },
   {
     "markerId": 28,
     "markerName": "형산교2",
     "longitude": 129.3707074,
-    "latitude": 36.01174867
+    "latitude": 36.01174867,
+    "total_population_202310": 62368,
+    "total_population_202311": 57566,
+    "total_population_202312": 49878
   },
   {
     "markerId": 26,
     "markerName": "예술회관1",
     "longitude": 129.3644216,
-    "latitude": 36.01023929
+    "latitude": 36.01023929,
+    "total_population_202310": 12222,
+    "total_population_202311": 12320,
+    "total_population_202312": 11386
   },
   {
     "markerId": 131,
     "markerName": "예술회관2",
     "longitude": 129.3645384,
-    "latitude": 36.01015863
+    "latitude": 36.01015863,
+    "total_population_202310": 3320,
+    "total_population_202311": 2894,
+    "total_population_202312": 2165
   },
   {
     "markerId": 25,
     "markerName": "섬안사거리2",
     "longitude": 129.3568279,
-    "latitude": 36.00781021
+    "latitude": 36.00781021,
+    "total_population_202310": 11908,
+    "total_population_202311": 11638,
+    "total_population_202312": 9858
   },
   {
     "markerId": 23,
     "markerName": "섬안사거리1",
     "longitude": 129.3567846,
-    "latitude": 36.0078471
+    "latitude": 36.0078471,
+    "total_population_202310": 11908,
+    "total_population_202311": 11638,
+    "total_population_202312": 9858
   },
   {
     "markerId": 24,
     "markerName": "볼링장",
     "longitude": 129.3562363,
-    "latitude": 36.00830454
+    "latitude": 36.00830454,
+    "total_population_202310": 26653,
+    "total_population_202311": 26203,
+    "total_population_202312": 22784
   },
   {
     "markerId": 43,
     "markerName": "뱃머리",
     "longitude": 129.3533188,
-    "latitude": 36.00892325
+    "latitude": 36.00892325,
+    "total_population_202310": 6246,
+    "total_population_202311": 5830,
+    "total_population_202312": 6173
   },
   {
     "markerId": 171,
     "markerName": "에이스침대 맞이편",
     "longitude": 129.3461724,
-    "latitude": 36.01664176
+    "latitude": 36.01664176,
+    "total_population_202310": 22964,
+    "total_population_202311": 21120,
+    "total_population_202312": 24701
   },
   {
     "markerId": 1,
     "markerName": "오광장1",
     "longitude": 129.3555379,
-    "latitude": 36.01933354
+    "latitude": 36.01933354,
+    "total_population_202310": 170081,
+    "total_population_202311": 176686,
+    "total_population_202312": 170342
   },
   {
     "markerId": 2,
     "markerName": "오광장2",
     "longitude": 129.3555041,
-    "latitude": 36.01930689
+    "latitude": 36.01930689,
+    "total_population_202310": 170081,
+    "total_population_202311": 176686,
+    "total_population_202312": 170342
   },
   {
     "markerId": 170,
     "markerName": "상대동 코아루 맞은편",
     "longitude": 129.3465987,
-    "latitude": 36.00820459
+    "latitude": 36.00820459,
+    "total_population_202310": 19450,
+    "total_population_202311": 17750,
+    "total_population_202312": 21555
   },
   {
     "markerId": 42,
     "markerName": "한전맞은편",
     "longitude": 129.3476022,
-    "latitude": 36.00995186
+    "latitude": 36.00995186,
+    "total_population_202310": 44610,
+    "total_population_202311": 42676,
+    "total_population_202312": 47563
   },
   {
     "markerId": 22,
     "markerName": "대잠사거리1",
     "longitude": 129.3429491,
-    "latitude": 36.01157207
+    "latitude": 36.01157207,
+    "total_population_202310": 63106,
+    "total_population_202311": 66168,
+    "total_population_202312": 64313
   },
   {
     "markerId": 161,
     "markerName": "대잠사거리2",
     "longitude": 129.3429515,
-    "latitude": 36.01161412
+    "latitude": 36.01161412,
+    "total_population_202310": 63106,
+    "total_population_202311": 66168,
+    "total_population_202312": 64313
   },
   {
     "markerId": 21,
     "markerName": "남부경찰서1",
     "longitude": 129.3451252,
-    "latitude": 36.0058165
+    "latitude": 36.0058165,
+    "total_population_202310": 48524,
+    "total_population_202311": 51056,
+    "total_population_202312": 47548
   },
   {
     "markerId": 16,
     "markerName": "남부경찰서2",
     "longitude": 129.3451043,
-    "latitude": 36.0057651
+    "latitude": 36.0057651,
+    "total_population_202310": 48524,
+    "total_population_202311": 51056,
+    "total_population_202312": 47548
   },
   {
     "markerId": 18,
     "markerName": "효자사거리1",
     "longitude": 129.3394495,
-    "latitude": 36.00861036
+    "latitude": 36.00861036,
+    "total_population_202310": 52678,
+    "total_population_202311": 58972,
+    "total_population_202312": 59077
   },
   {
     "markerId": 19,
     "markerName": "효자사거리2",
     "longitude": 129.3393615,
-    "latitude": 36.00862309
+    "latitude": 36.00862309,
+    "total_population_202310": 52678,
+    "total_population_202311": 58972,
+    "total_population_202312": 59077
   },
   {
     "markerId": 180,
     "markerName": "효자사거리3",
     "longitude": 129.3392898,
-    "latitude": 36.0086335
+    "latitude": 36.0086335,
+    "total_population_202310": 52678,
+    "total_population_202311": 58972,
+    "total_population_202312": 59077
   },
   {
     "markerId": 13,
     "markerName": "이동택지1",
     "longitude": 129.339013,
-    "latitude": 36.01952822
+    "latitude": 36.01952822,
+    "total_population_202310": 3418,
+    "total_population_202311": 3072,
+    "total_population_202312": 3525
   },
   {
     "markerId": 14,
     "markerName": "이동택지2",
     "longitude": 129.3390337,
-    "latitude": 36.01943788
+    "latitude": 36.01943788,
+    "total_population_202310": 3486,
+    "total_population_202311": 3194,
+    "total_population_202312": 3579
   },
   {
     "markerId": 12,
     "markerName": "건강랜드",
     "longitude": 129.335433,
-    "latitude": 36.02561489
+    "latitude": 36.02561489,
+    "total_population_202310": 4166,
+    "total_population_202311": 4444,
+    "total_population_202312": 3719
   },
   {
     "markerId": 11,
     "markerName": "이동LG",
     "longitude": 129.3384777,
-    "latitude": 36.02552503
+    "latitude": 36.02552503,
+    "total_population_202310": 43820,
+    "total_population_202311": 42955,
+    "total_population_202312": 48080
   },
   {
     "markerId": 182,
     "markerName": "이동LG2",
     "longitude": 129.3383876,
-    "latitude": 36.02557184
+    "latitude": 36.02557184,
+    "total_population_202310": 43820,
+    "total_population_202311": 42955,
+    "total_population_202312": 48080
   },
   {
     "markerId": 158,
     "markerName": "이동매매1",
     "longitude": 129.3357862,
-    "latitude": 36.0316615
+    "latitude": 36.0316615,
+    "total_population_202310": 7018,
+    "total_population_202311": 7614,
+    "total_population_202312": 7734
   },
   {
     "markerId": 10,
     "markerName": "이동매매2",
     "longitude": 129.3356689,
-    "latitude": 36.03170406
+    "latitude": 36.03170406,
+    "total_population_202310": 7172,
+    "total_population_202311": 7832,
+    "total_population_202312": 7945
   },
   {
     "markerId": 7,
     "markerName": "이동이마트1",
     "longitude": 129.3382659,
-    "latitude": 36.03242854
+    "latitude": 36.03242854,
+    "total_population_202310": 7268,
+    "total_population_202311": 9186,
+    "total_population_202312": 7633
   },
   {
     "markerId": 8,
     "markerName": "이동이마트2",
     "longitude": 129.3381659,
-    "latitude": 36.03240615
+    "latitude": 36.03240615,
+    "total_population_202310": 7268,
+    "total_population_202311": 9186,
+    "total_population_202312": 7633
   },
   {
     "markerId": 9,
     "markerName": "이동이마트3",
     "longitude": 129.3380663,
-    "latitude": 36.03241627
+    "latitude": 36.03241627,
+    "total_population_202310": 7268,
+    "total_population_202311": 9186,
+    "total_population_202312": 7633
   },
   {
     "markerId": 5,
     "markerName": "양학보성",
     "longitude": 129.3475662,
-    "latitude": 36.02933607
+    "latitude": 36.02933607,
+    "total_population_202310": 34004,
+    "total_population_202311": 30648,
+    "total_population_202312": 22852
   },
   {
     "markerId": 99,
     "markerName": "포항의료원",
     "longitude": 129.3559026,
-    "latitude": 36.03349552
+    "latitude": 36.03349552,
+    "total_population_202310": 15834,
+    "total_population_202311": 13230,
+    "total_population_202312": 19705
   },
   {
     "markerId": 98,
     "markerName": "용흥한라1",
     "longitude": 129.3542129,
-    "latitude": 36.03913779
+    "latitude": 36.03913779,
+    "total_population_202310": 3047,
+    "total_population_202311": 2624,
+    "total_population_202312": 3730
   },
   {
     "markerId": 96,
     "markerName": "사격장1",
     "longitude": 129.358011,
-    "latitude": 36.04592145
+    "latitude": 36.04592145,
+    "total_population_202310": 11158,
+    "total_population_202311": 10390,
+    "total_population_202312": 12352
   },
   {
     "markerId": 97,
     "markerName": "사격장2",
     "longitude": 129.3580885,
-    "latitude": 36.04600778
+    "latitude": 36.04600778,
+    "total_population_202310": 11158,
+    "total_population_202311": 10390,
+    "total_population_202312": 12352
   },
   {
     "markerId": 157,
     "markerName": "사격장3",
     "longitude": 129.3580616,
-    "latitude": 36.04594298
+    "latitude": 36.04594298,
+    "total_population_202310": 11158,
+    "total_population_202311": 10390,
+    "total_population_202312": 12352
   },
   {
     "markerId": 44,
     "markerName": "동빈유료",
     "longitude": 129.3696848,
-    "latitude": 36.0388797
+    "latitude": 36.0388797,
+    "total_population_202310": 6022,
+    "total_population_202311": 6062,
+    "total_population_202312": 8567
   },
   {
     "markerId": 45,
     "markerName": "포항세관",
     "longitude": 129.3730207,
-    "latitude": 36.05142526
+    "latitude": 36.05142526,
+    "total_population_202310": 27408,
+    "total_population_202311": 27104,
+    "total_population_202312": 26749
   },
   {
     "markerId": 40,
     "markerName": "태왕아너스옆",
     "longitude": 129.376566,
-    "latitude": 36.03991021
+    "latitude": 36.03991021,
+    "total_population_202310": 4370,
+    "total_population_202311": 3372,
+    "total_population_202312": 5432
   },
   {
     "markerId": 41,
     "markerName": "강변세차장",
     "longitude": 129.376706,
-    "latitude": 36.02353197
+    "latitude": 36.02353197,
+    "total_population_202310": 2582,
+    "total_population_202311": 2316,
+    "total_population_202312": 2033
   },
   {
     "markerId": 189,
     "markerName": "용흥한라2",
     "longitude": 129.3542668,
-    "latitude": 36.03912952
+    "latitude": 36.03912952,
+    "total_population_202310": 3047,
+    "total_population_202311": 2624,
+    "total_population_202312": 3730
   },
   {
     "markerId": 190,
     "markerName": "kcc스위첸",
     "longitude": 129.3540792,
-    "latitude": 36.02910291
+    "latitude": 36.02910291,
+    "total_population_202310": 18008,
+    "total_population_202311": 15522,
+    "total_population_202312": 17082
   },
   {
     "markerId": 183,
     "markerName": "원용교2",
     "longitude": 129.4083561,
-    "latitude": 35.97574034
+    "latitude": 35.97574034,
+    "total_population_202310": 32250,
+    "total_population_202311": 34710,
+    "total_population_202312": 29681
   },
   {
     "markerId": 100,
     "markerName": "경북자동차",
     "longitude": 129.3447881,
-    "latitude": 35.99911741
+    "latitude": 35.99911741,
+    "total_population_202310": 23966,
+    "total_population_202311": 22716,
+    "total_population_202312": 23042
   },
   {
     "markerId": 101,
     "markerName": "연일읍사무소2",
     "longitude": 0,
-    "latitude": 0
+    "latitude": 0,
+    "total_population_202310": 0,
+    "total_population_202311": 0,
+    "total_population_202312": 0
   },
   {
     "markerId": 102,
     "markerName": "영일고",
     "longitude": 129.3521536,
-    "latitude": 35.99524785
+    "latitude": 35.99524785,
+    "total_population_202310": 7426,
+    "total_population_202311": 6648,
+    "total_population_202312": 5205
   },
   {
     "markerId": 103,
     "markerName": "연일읍사무소1",
     "longitude": 129.3432659,
-    "latitude": 35.99264195
+    "latitude": 35.99264195,
+    "total_population_202310": 4796,
+    "total_population_202311": 7550,
+    "total_population_202312": 5396
   },
   {
     "markerId": 104,
     "markerName": "남천교",
     "longitude": 129.3577612,
-    "latitude": 35.98841818
+    "latitude": 35.98841818,
+    "total_population_202310": 4004,
+    "total_population_202311": 3423,
+    "total_population_202312": 2799
   },
   {
     "markerId": 107,
     "markerName": "송동버스",
     "longitude": 129.361577,
-    "latitude": 35.96729127
+    "latitude": 35.96729127,
+    "total_population_202310": 584,
+    "total_population_202311": 866,
+    "total_population_202312": 334
   },
   {
     "markerId": 108,
     "markerName": "송동사거리",
     "longitude": 129.3618364,
-    "latitude": 35.97422836
+    "latitude": 35.97422836,
+    "total_population_202310": 1540,
+    "total_population_202311": 1422,
+    "total_population_202312": 966
   },
   {
     "markerId": 109,
     "markerName": "대송복지",
     "longitude": 129.3611678,
-    "latitude": 35.97829602
+    "latitude": 35.97829602,
+    "total_population_202310": 324,
+    "total_population_202311": 286,
+    "total_population_202312": 276
   },
   {
     "markerId": 110,
     "markerName": "강변1",
     "longitude": 129.4092555,
-    "latitude": 35.97672972
+    "latitude": 35.97672972,
+    "total_population_202310": 14736,
+    "total_population_202311": 18666,
+    "total_population_202312": 15646
   },
   {
     "markerId": 111,
     "markerName": "강변2",
     "longitude": 129.4092964,
-    "latitude": 35.97667875
+    "latitude": 35.97667875,
+    "total_population_202310": 48808,
+    "total_population_202311": 51088,
+    "total_population_202312": 41928
   },
   {
     "markerId": 112,
     "markerName": "원용교1",
     "longitude": 129.4083231,
-    "latitude": 35.97583786
+    "latitude": 35.97583786,
+    "total_population_202310": 32250,
+    "total_population_202311": 34710,
+    "total_population_202312": 29681
   },
   {
     "markerId": 113,
     "markerName": "구,버스종점1",
     "longitude": 129.3992647,
-    "latitude": 35.96343749
+    "latitude": 35.96343749,
+    "total_population_202310": 26448,
+    "total_population_202311": 31386,
+    "total_population_202312": 30136
   },
   {
     "markerId": 114,
     "markerName": "구.버스종점2",
     "longitude": 129.399343,
-    "latitude": 35.96333641
+    "latitude": 35.96333641,
+    "total_population_202310": 26448,
+    "total_population_202311": 31386,
+    "total_population_202312": 30136
   },
   {
     "markerId": 115,
     "markerName": "문덕다리1",
     "longitude": 129.4075142,
-    "latitude": 35.9617009
+    "latitude": 35.9617009,
+    "total_population_202310": 42476,
+    "total_population_202311": 54482,
+    "total_population_202312": 39477
   },
   {
     "markerId": 116,
     "markerName": "문덕다리2",
     "longitude": 129.4074467,
-    "latitude": 35.96164762
+    "latitude": 35.96164762,
+    "total_population_202310": 42476,
+    "total_population_202311": 54482,
+    "total_population_202312": 39477
   },
   {
     "markerId": 117,
     "markerName": "우체국맞은편",
     "longitude": 129.4151325,
-    "latitude": 35.96188164
+    "latitude": 35.96188164,
+    "total_population_202310": 1360,
+    "total_population_202311": 1598,
+    "total_population_202312": 772
   },
   {
     "markerId": 118,
     "markerName": "문덕사거리1",
     "longitude": 129.4129521,
-    "latitude": 35.96150018
+    "latitude": 35.96150018,
+    "total_population_202310": 10856,
+    "total_population_202311": 12671,
+    "total_population_202312": 7997
   },
   {
     "markerId": 119,
     "markerName": "문덕사거리2",
     "longitude": 129.4128149,
-    "latitude": 35.96145338
+    "latitude": 35.96145338,
+    "total_population_202310": 14080,
+    "total_population_202311": 17406,
+    "total_population_202312": 11442
   },
   {
     "markerId": 30,
     "markerName": "백두산삼거리",
     "longitude": 129.4100705,
-    "latitude": 35.97078875
+    "latitude": 35.97078875,
+    "total_population_202310": 17510,
+    "total_population_202311": 20800,
+    "total_population_202312": 17592
   },
   {
     "markerId": 167,
     "markerName": "강나루 맞은편",
     "longitude": 129.4069727,
-    "latitude": 35.95966067
+    "latitude": 35.95966067,
+    "total_population_202310": 4394,
+    "total_population_202311": 4376,
+    "total_population_202312": 3532
   },
   {
     "markerId": 122,
     "markerName": "공항삼거리",
     "longitude": 129.4341883,
-    "latitude": 35.98953693
+    "latitude": 35.98953693,
+    "total_population_202310": 5864,
+    "total_population_202311": 6588,
+    "total_population_202312": 5673
   },
   {
     "markerId": 123,
     "markerName": "영남아파트",
     "longitude": 129.4453826,
-    "latitude": 35.98805084
+    "latitude": 35.98805084,
+    "total_population_202310": 13156,
+    "total_population_202311": 13010,
+    "total_population_202312": 12594
   },
   {
     "markerId": 125,
     "markerName": "임곡온천",
     "longitude": 129.4542301,
-    "latitude": 35.99042205
+    "latitude": 35.99042205,
+    "total_population_202310": 236,
+    "total_population_202311": 308,
+    "total_population_202312": 270
   },
   {
     "markerId": 126,
     "markerName": "병포리 입구",
     "longitude": 129.5448524,
-    "latitude": 35.9822873
+    "latitude": 35.9822873,
+    "total_population_202310": 298,
+    "total_population_202311": 316,
+    "total_population_202312": 438
   },
   {
     "markerId": 127,
     "markerName": "구룡포도서관앞",
     "longitude": 129.5538877,
-    "latitude": 35.9889848
+    "latitude": 35.9889848,
+    "total_population_202310": 572,
+    "total_population_202311": 1060,
+    "total_population_202312": 530
   },
   {
     "markerId": 128,
     "markerName": "구룡포수협앞",
     "longitude": 129.5573209,
-    "latitude": 35.99108332
+    "latitude": 35.99108332,
+    "total_population_202310": 460,
+    "total_population_202311": 984,
+    "total_population_202312": 618
   },
   {
     "markerId": 129,
     "markerName": "해뜨는 마을",
     "longitude": 129.5496585,
-    "latitude": 35.97972917
+    "latitude": 35.97972917,
+    "total_population_202310": 144,
+    "total_population_202311": 164,
+    "total_population_202312": 32
   },
   {
     "markerId": 130,
     "markerName": "호미곶 농협앞",
     "longitude": 129.5617969,
-    "latitude": 36.07797464
+    "latitude": 36.07797464,
+    "total_population_202310": 28,
+    "total_population_202311": 62,
+    "total_population_202312": 52
   },
   {
     "markerId": 132,
     "markerName": "장기면사무소",
     "longitude": 129.4926599,
-    "latitude": 35.89718597
+    "latitude": 35.89718597,
+    "total_population_202310": 40,
+    "total_population_202311": 54,
+    "total_population_202312": 20
   },
   {
     "markerId": 191,
     "markerName": "효자 sk1차 삼거리",
     "longitude": 129.3345913,
-    "latitude": 36.00762137
+    "latitude": 36.00762137,
+    "total_population_202310": 24892,
+    "total_population_202311": 30002,
+    "total_population_202312": 30346
   },
   {
     "markerId": 192,
     "markerName": "효자 승리아파트 맞은편1",
     "longitude": 129.328476,
-    "latitude": 36.00810295
+    "latitude": 36.00810295,
+    "total_population_202310": 21216,
+    "total_population_202311": 23092,
+    "total_population_202312": 17215
   },
   {
     "markerId": 193,
     "markerName": "효자 승리아파트 맞은편2",
     "longitude": 129.3284971,
-    "latitude": 36.0080665
+    "latitude": 36.0080665,
+    "total_population_202310": 21216,
+    "total_population_202311": 23092,
+    "total_population_202312": 17215
   },
   {
     "markerId": 46,
     "markerName": "수산연구원1",
     "longitude": 129.3777834,
-    "latitude": 36.05845112
+    "latitude": 36.05845112,
+    "total_population_202310": 56686,
+    "total_population_202311": 43532,
+    "total_population_202312": 49441
   },
   {
     "markerId": 177,
     "markerName": "포항세관 후문",
     "longitude": 129.3729894,
-    "latitude": 36.0519552
+    "latitude": 36.0519552,
+    "total_population_202310": 34724,
+    "total_population_202311": 35044,
+    "total_population_202312": 34776
   },
   {
     "markerId": 176,
     "markerName": "수산연구원2",
     "longitude": 129.377869,
-    "latitude": 36.05851224
+    "latitude": 36.05851224,
+    "total_population_202310": 56686,
+    "total_population_202311": 43532,
+    "total_population_202312": 49441
   },
   {
     "markerId": 47,
     "markerName": "롯데백화점",
     "longitude": 129.3681923,
-    "latitude": 36.04934226
+    "latitude": 36.04934226,
+    "total_population_202310": 8424,
+    "total_population_202311": 10082,
+    "total_population_202312": 11058
   },
   {
     "markerId": 48,
     "markerName": "나루끝1",
     "longitude": 129.3638051,
-    "latitude": 36.04783327
+    "latitude": 36.04783327,
+    "total_population_202310": 19572,
+    "total_population_202311": 22076,
+    "total_population_202312": 19412
   },
   {
     "markerId": 49,
     "markerName": "나루끝2",
     "longitude": 129.3638491,
-    "latitude": 36.04780574
+    "latitude": 36.04780574,
+    "total_population_202310": 19572,
+    "total_population_202311": 22076,
+    "total_population_202312": 19412
   },
   {
     "markerId": 51,
     "markerName": "신동아4",
     "longitude": 129.3605429,
-    "latitude": 36.05212898
+    "latitude": 36.05212898,
+    "total_population_202310": 44486,
+    "total_population_202311": 40056,
+    "total_population_202312": 47580
   },
   {
     "markerId": 52,
     "markerName": "포고삼거리",
     "longitude": 129.3692486,
-    "latitude": 36.05779196
+    "latitude": 36.05779196,
+    "total_population_202310": 22554,
+    "total_population_202311": 24320,
+    "total_population_202312": 22327
   },
   {
     "markerId": 53,
     "markerName": "창포사거리1",
     "longitude": 129.3707282,
-    "latitude": 36.0611994
+    "latitude": 36.0611994,
+    "total_population_202310": 32188,
+    "total_population_202311": 36850,
+    "total_population_202312": 40091
   },
   {
     "markerId": 54,
     "markerName": "창포사거리2",
     "longitude": 129.3707274,
-    "latitude": 36.06115435
+    "latitude": 36.06115435,
+    "total_population_202310": 32188,
+    "total_population_202311": 36850,
+    "total_population_202312": 40091
   },
   {
     "markerId": 55,
     "markerName": "아이파크1",
     "longitude": 129.3714667,
-    "latitude": 36.06410165
+    "latitude": 36.06410165,
+    "total_population_202310": 10238,
+    "total_population_202311": 9796,
+    "total_population_202312": 10734
   },
   {
     "markerId": 56,
     "markerName": "아이파크2",
     "longitude": 129.3714658,
-    "latitude": 36.06404759
+    "latitude": 36.06404759,
+    "total_population_202310": 10238,
+    "total_population_202311": 9796,
+    "total_population_202312": 10734
   },
   {
     "markerId": 57,
     "markerName": "아이파크3",
     "longitude": 129.3714433,
-    "latitude": 36.06402982
+    "latitude": 36.06402982,
+    "total_population_202310": 10238,
+    "total_population_202311": 9796,
+    "total_population_202312": 10734
   },
   {
     "markerId": 58,
     "markerName": "동부초등 옆",
     "longitude": 129.3813302,
-    "latitude": 36.06326746
+    "latitude": 36.06326746,
+    "total_population_202310": 28060,
+    "total_population_202311": 19900,
+    "total_population_202312": 23477
   },
   {
     "markerId": 59,
     "markerName": "장성럭키",
     "longitude": 129.3796202,
-    "latitude": 36.06449469
+    "latitude": 36.06449469,
+    "total_population_202310": 19774,
+    "total_population_202311": 18575,
+    "total_population_202312": 21514
   },
   {
     "markerId": 60,
     "markerName": "장량동사",
     "longitude": 129.3788579,
-    "latitude": 36.06724293
+    "latitude": 36.06724293,
+    "total_population_202310": 6900,
+    "total_population_202311": 6104,
+    "total_population_202312": 7036
   },
   {
     "markerId": 61,
     "markerName": "아모르웨딩1",
     "longitude": 129.3865921,
-    "latitude": 36.074811
+    "latitude": 36.074811,
+    "total_population_202310": 15314,
+    "total_population_202311": 19426,
+    "total_population_202312": 19548
   },
   {
     "markerId": 62,
     "markerName": "아모르웨딩2",
     "longitude": 129.3866825,
-    "latitude": 36.07480335
+    "latitude": 36.07480335,
+    "total_population_202310": 15314,
+    "total_population_202311": 19426,
+    "total_population_202312": 19548
   },
   {
     "markerId": 63,
     "markerName": "아모르웨딩3",
     "longitude": 129.3867656,
-    "latitude": 36.07485935
+    "latitude": 36.07485935,
+    "total_population_202310": 15314,
+    "total_population_202311": 19426,
+    "total_population_202312": 19548
   },
   {
     "markerId": 64,
     "markerName": "장성삼성a/s1",
     "longitude": 129.3927822,
-    "latitude": 36.07590834
+    "latitude": 36.07590834,
+    "total_population_202310": 4570,
+    "total_population_202311": 3668,
+    "total_population_202312": 4536
   },
   {
     "markerId": 65,
     "markerName": "장성삼성a/s2",
     "longitude": 129.3928691,
-    "latitude": 36.07593589
+    "latitude": 36.07593589,
+    "total_population_202310": 4570,
+    "total_population_202311": 3668,
+    "total_population_202312": 4536
   },
   {
     "markerId": 66,
     "markerName": "산호조경1",
     "longitude": 129.3967086,
-    "latitude": 36.07619181
+    "latitude": 36.07619181,
+    "total_population_202310": 6066,
+    "total_population_202311": 3478,
+    "total_population_202312": 5238
   },
   {
     "markerId": 67,
     "markerName": "산호조경2",
     "longitude": 129.3965979,
-    "latitude": 36.07621112
+    "latitude": 36.07621112,
+    "total_population_202310": 6066,
+    "total_population_202311": 3478,
+    "total_population_202312": 5238
   },
   {
     "markerId": 156,
     "markerName": "산호조경3",
     "longitude": 129.3964913,
-    "latitude": 36.07625315
+    "latitude": 36.07625315,
+    "total_population_202310": 6070,
+    "total_population_202311": 3494,
+    "total_population_202312": 5288
   },
   {
     "markerId": 68,
     "markerName": "환여동사",
     "longitude": 129.3968721,
-    "latitude": 36.06974676
+    "latitude": 36.06974676,
+    "total_population_202310": 4524,
+    "total_population_202311": 3997,
+    "total_population_202312": 3844
   },
   {
     "markerId": 69,
     "markerName": "청우대림1차",
     "longitude": 129.3853894,
-    "latitude": 36.06626647
+    "latitude": 36.06626647,
+    "total_population_202310": 7002,
+    "total_population_202311": 7530,
+    "total_population_202312": 8132
   },
   {
     "markerId": 70,
     "markerName": "환호해맞이",
     "longitude": 129.3892007,
-    "latitude": 36.06721554
+    "latitude": 36.06721554,
+    "total_population_202310": 1594,
+    "total_population_202311": 1486,
+    "total_population_202312": 1589
   },
   {
     "markerId": 173,
     "markerName": "전통놀이주차장",
     "longitude": 129.3997182,
-    "latitude": 36.0672148
+    "latitude": 36.0672148,
+    "total_population_202310": 8,
+    "total_population_202311": 80,
+    "total_population_202312": 108
   },
   {
     "markerId": 71,
     "markerName": "청소년수련원",
     "longitude": 129.397487,
-    "latitude": 36.07564205
+    "latitude": 36.07564205,
+    "total_population_202310": 3578,
+    "total_population_202311": 2208,
+    "total_population_202312": 3553
   },
   {
     "markerId": 72,
     "markerName": "양덕사거리1",
     "longitude": 129.3974549,
-    "latitude": 36.07627892
+    "latitude": 36.07627892,
+    "total_population_202310": 4296,
+    "total_population_202311": 2636,
+    "total_population_202312": 4168
   },
   {
     "markerId": 73,
     "markerName": "양덕사거리2",
     "longitude": 129.3973405,
-    "latitude": 36.07625868
+    "latitude": 36.07625868,
+    "total_population_202310": 4214,
+    "total_population_202311": 2628,
+    "total_population_202312": 4109
   },
   {
     "markerId": 83,
     "markerName": "축산랜드",
     "longitude": 129.411814,
-    "latitude": 36.07964638
+    "latitude": 36.07964638,
+    "total_population_202310": 354,
+    "total_population_202311": 136,
+    "total_population_202312": 257
   },
   {
     "markerId": 168,
     "markerName": "하나로마트앞1",
     "longitude": 129.3987138,
-    "latitude": 36.08191411
+    "latitude": 36.08191411,
+    "total_population_202310": 5302,
+    "total_population_202311": 1822,
+    "total_population_202312": 2640
   },
   {
     "markerId": 159,
     "markerName": "축산랜드2",
     "longitude": 129.4119205,
-    "latitude": 36.07968252
+    "latitude": 36.07968252,
+    "total_population_202310": 354,
+    "total_population_202311": 136,
+    "total_population_202312": 257
   },
   {
     "markerId": 74,
     "markerName": "하나로마트앞2",
     "longitude": 129.3986445,
-    "latitude": 36.08191775
+    "latitude": 36.08191775,
+    "total_population_202310": 5302,
+    "total_population_202311": 1822,
+    "total_population_202312": 2640
   },
   {
     "markerId": 78,
     "markerName": "양덕e편한1",
     "longitude": 129.3969759,
-    "latitude": 36.08654614
+    "latitude": 36.08654614,
+    "total_population_202310": 5518,
+    "total_population_202311": 8276,
+    "total_population_202312": 5858
   },
   {
     "markerId": 75,
     "markerName": "양덕e편한2",
     "longitude": 129.3964847,
-    "latitude": 36.08645461
+    "latitude": 36.08645461,
+    "total_population_202310": 6312,
+    "total_population_202311": 9362,
+    "total_population_202312": 6285
   },
   {
     "markerId": 164,
     "markerName": "삼구3차 삼거리",
     "longitude": 129.3970637,
-    "latitude": 36.08879682
+    "latitude": 36.08879682,
+    "total_population_202310": 2248,
+    "total_population_202311": 1798,
+    "total_population_202312": 1743
   },
   {
     "markerId": 169,
     "markerName": "기아서비스 학잠점",
     "longitude": 129.3697885,
-    "latitude": 36.05824662
+    "latitude": 36.05824662,
+    "total_population_202310": 30608,
+    "total_population_202311": 32962,
+    "total_population_202312": 31413
   },
   {
     "markerId": 76,
     "markerName": "양덕e편한3",
     "longitude": 129.3964007,
-    "latitude": 36.08642926
+    "latitude": 36.08642926,
+    "total_population_202310": 6312,
+    "total_population_202311": 9362,
+    "total_population_202312": 6285
   },
   {
     "markerId": 77,
     "markerName": "보금이갈비",
     "longitude": 129.3921878,
-    "latitude": 36.08659682
+    "latitude": 36.08659682,
+    "total_population_202310": 6890,
+    "total_population_202311": 6280,
+    "total_population_202312": 4734
   },
   {
     "markerId": 79,
     "markerName": "양덕삼도1",
     "longitude": 129.3824532,
-    "latitude": 36.08982039
+    "latitude": 36.08982039,
+    "total_population_202310": 16472,
+    "total_population_202311": 15150,
+    "total_population_202312": 16381
   },
   {
     "markerId": 80,
     "markerName": "양덕삼도2",
     "longitude": 129.382076,
-    "latitude": 36.09010494
+    "latitude": 36.09010494,
+    "total_population_202310": 11980,
+    "total_population_202311": 11504,
+    "total_population_202312": 12186
   },
   {
     "markerId": 81,
     "markerName": "양덕삼도3",
     "longitude": 129.3819444,
-    "latitude": 36.09015712
+    "latitude": 36.09015712,
+    "total_population_202310": 11980,
+    "total_population_202311": 11504,
+    "total_population_202312": 12186
   },
   {
     "markerId": 82,
     "markerName": "양덕삼도4",
     "longitude": 129.3818578,
-    "latitude": 36.09023092
+    "latitude": 36.09023092,
+    "total_population_202310": 10322,
+    "total_population_202311": 10250,
+    "total_population_202312": 10742
   },
   {
     "markerId": 163,
     "markerName": "기쁨의교회1",
     "longitude": 129.3744138,
-    "latitude": 36.09591525
+    "latitude": 36.09591525,
+    "total_population_202310": 680,
+    "total_population_202311": 554,
+    "total_population_202312": 866
   },
   {
     "markerId": 3,
     "markerName": "기쁨의교회2",
     "longitude": 129.3743015,
-    "latitude": 36.09596478
+    "latitude": 36.09596478,
+    "total_population_202310": 680,
+    "total_population_202311": 554,
+    "total_population_202312": 866
   },
   {
     "markerId": 84,
     "markerName": "포항온천",
     "longitude": 129.3798738,
-    "latitude": 36.08370671
+    "latitude": 36.08370671,
+    "total_population_202310": 3512,
+    "total_population_202311": 3560,
+    "total_population_202312": 3115
   },
   {
     "markerId": 85,
     "markerName": "장성케이블1",
     "longitude": 129.3793543,
-    "latitude": 36.07278826
+    "latitude": 36.07278826,
+    "total_population_202310": 30032,
+    "total_population_202311": 30872,
+    "total_population_202312": 30571
   },
   {
     "markerId": 86,
     "markerName": "장성케이블2",
     "longitude": 129.379342,
-    "latitude": 36.07271631
+    "latitude": 36.07271631,
+    "total_population_202310": 41471,
+    "total_population_202311": 42576,
+    "total_population_202312": 44981
   },
   {
     "markerId": 87,
     "markerName": "장성케이블3",
     "longitude": 129.3792723,
-    "latitude": 36.07253688
+    "latitude": 36.07253688,
+    "total_population_202310": 41471,
+    "total_population_202311": 42576,
+    "total_population_202312": 44981
   },
   {
     "markerId": 88,
     "markerName": "장성케이블4",
     "longitude": 129.3791933,
-    "latitude": 36.0724657
+    "latitude": 36.0724657,
+    "total_population_202310": 41471,
+    "total_population_202311": 42576,
+    "total_population_202312": 44981
   },
   {
     "markerId": 89,
     "markerName": "사랑교회1",
     "longitude": 129.3692218,
-    "latitude": 36.05817075
+    "latitude": 36.05817075,
+    "total_population_202310": 23900,
+    "total_population_202311": 25946,
+    "total_population_202312": 24248
   },
   {
     "markerId": 90,
     "markerName": "사랑교회2",
     "longitude": 129.3691771,
-    "latitude": 36.05815324
+    "latitude": 36.05815324,
+    "total_population_202310": 23900,
+    "total_population_202311": 25946,
+    "total_population_202312": 24248
   },
   {
     "markerId": 91,
     "markerName": "여성문화1",
     "longitude": 129.3630777,
-    "latitude": 36.05455509
+    "latitude": 36.05455509,
+    "total_population_202310": 20759,
+    "total_population_202311": 23084,
+    "total_population_202312": 24136
   },
   {
     "markerId": 92,
     "markerName": "여성문화2",
     "longitude": 129.3632008,
-    "latitude": 36.05461677
+    "latitude": 36.05461677,
+    "total_population_202310": 21033,
+    "total_population_202311": 23508,
+    "total_population_202312": 24733
   },
   {
     "markerId": 162,
     "markerName": "유성여고입구",
     "longitude": 129.3583672,
-    "latitude": 36.05432518
+    "latitude": 36.05432518,
+    "total_population_202310": 35485,
+    "total_population_202311": 36046,
+    "total_population_202312": 41203
   },
   {
     "markerId": 93,
     "markerName": "신동아1",
     "longitude": 129.359861,
-    "latitude": 36.05260867
+    "latitude": 36.05260867,
+    "total_population_202310": 63074,
+    "total_population_202311": 60452,
+    "total_population_202312": 70596
   },
   {
     "markerId": 94,
     "markerName": "신동아2",
     "longitude": 129.3598908,
-    "latitude": 36.05249095
+    "latitude": 36.05249095,
+    "total_population_202310": 63074,
+    "total_population_202311": 60452,
+    "total_population_202312": 70596
   },
   {
     "markerId": 95,
     "markerName": "신동아3",
     "longitude": 129.3599265,
-    "latitude": 36.05238439
+    "latitude": 36.05238439,
+    "total_population_202310": 56444,
+    "total_population_202311": 53408,
+    "total_population_202312": 62275
   },
   {
     "markerId": 187,
     "markerName": "달전사거리3",
     "longitude": 129.3429921,
-    "latitude": 36.0785684
+    "latitude": 36.0785684,
+    "total_population_202310": 49668,
+    "total_population_202311": 45096,
+    "total_population_202312": 47353
   },
   {
     "markerId": 133,
     "markerName": "망천리사거리",
     "longitude": 129.3586055,
-    "latitude": 36.10940438
+    "latitude": 36.10940438,
+    "total_population_202310": 11414,
+    "total_population_202311": 9466,
+    "total_population_202312": 9141
   },
   {
     "markerId": 134,
     "markerName": "흥해읍사무소 앞",
     "longitude": 129.3431771,
-    "latitude": 36.10726243
+    "latitude": 36.10726243,
+    "total_population_202310": 7486,
+    "total_population_202311": 5336,
+    "total_population_202312": 5824
   },
   {
     "markerId": 135,
     "markerName": "마산사거리A",
     "longitude": 129.3416913,
-    "latitude": 36.11159249
+    "latitude": 36.11159249,
+    "total_population_202310": 26581,
+    "total_population_202311": 22878,
+    "total_population_202312": 20987
   },
   {
     "markerId": 136,
     "markerName": "마산사거리B",
     "longitude": 129.3415777,
-    "latitude": 36.11169157
+    "latitude": 36.11169157,
+    "total_population_202310": 26581,
+    "total_population_202311": 22878,
+    "total_population_202312": 20987
   },
   {
     "markerId": 137,
     "markerName": "흥해로타리 옆",
     "longitude": 129.3467148,
-    "latitude": 36.11034539
+    "latitude": 36.11034539,
+    "total_population_202310": 26482,
+    "total_population_202311": 29238,
+    "total_population_202312": 30175
   },
   {
     "markerId": 138,
     "markerName": "흥해플라자 앞",
     "longitude": 129.3447105,
-    "latitude": 36.10492919
+    "latitude": 36.10492919,
+    "total_population_202310": 2464,
+    "total_population_202311": 2888,
+    "total_population_202312": 3762
   },
   {
     "markerId": 139,
     "markerName": "선린대 앞",
     "longitude": 129.3410195,
-    "latitude": 36.08943497
+    "latitude": 36.08943497,
+    "total_population_202310": 1590,
+    "total_population_202311": 1324,
+    "total_population_202312": 1618
   },
   {
     "markerId": 140,
     "markerName": "달전사거리",
     "longitude": 129.3423975,
-    "latitude": 36.07872644
+    "latitude": 36.07872644,
+    "total_population_202310": 54900,
+    "total_population_202311": 51192,
+    "total_population_202312": 53629
   },
   {
     "markerId": 186,
     "markerName": "달전사거리2",
     "longitude": 129.3429076,
-    "latitude": 36.07861735
+    "latitude": 36.07861735,
+    "total_population_202310": 50782,
+    "total_population_202311": 46274,
+    "total_population_202312": 48661
   },
   {
     "markerId": 141,
     "markerName": "곡강초등",
     "longitude": 129.3479334,
-    "latitude": 36.13019707
+    "latitude": 36.13019707,
+    "total_population_202310": 5278,
+    "total_population_202311": 4287,
+    "total_population_202312": 2260
   },
   {
     "markerId": 143,
     "markerName": "청하복지",
     "longitude": 129.3411212,
-    "latitude": 36.20112965
+    "latitude": 36.20112965,
+    "total_population_202310": 38,
+    "total_population_202311": 120,
+    "total_population_202312": 10
   },
   {
     "markerId": 144,
     "markerName": "청하교 옆",
     "longitude": 129.3388194,
-    "latitude": 36.1908133
+    "latitude": 36.1908133,
+    "total_population_202310": 46,
+    "total_population_202311": 40,
+    "total_population_202312": 28
   },
   {
     "markerId": 145,
     "markerName": "월포",
     "longitude": 129.3682402,
-    "latitude": 36.20343374
+    "latitude": 36.20343374,
+    "total_population_202310": 38,
+    "total_population_202311": 16,
+    "total_population_202312": 4
   },
   {
     "markerId": 146,
     "markerName": "한일주유소",
     "longitude": 129.3523123,
-    "latitude": 36.20213012
+    "latitude": 36.20213012,
+    "total_population_202310": 852,
+    "total_population_202311": 610,
+    "total_population_202312": 448
   },
   {
     "markerId": 147,
     "markerName": "농협주유소 앞",
     "longitude": 129.2586772,
-    "latitude": 36.12131865
+    "latitude": 36.12131865,
+    "total_population_202310": 118,
+    "total_population_202311": 94,
+    "total_population_202312": 116
   },
   {
     "markerId": 150,
     "markerName": "토성삼거리",
     "longitude": 129.2705311,
-    "latitude": 36.12870113
+    "latitude": 36.12870113,
+    "total_population_202310": 54,
+    "total_population_202311": 38,
+    "total_population_202312": 29
   },
   {
     "markerId": 151,
     "markerName": "협동상회 앞",
     "longitude": 129.2046399,
-    "latitude": 36.07042068
+    "latitude": 36.07042068,
+    "total_population_202310": 196,
+    "total_population_202311": 208,
+    "total_population_202312": 6
   },
   {
     "markerId": 152,
     "markerName": "소방서",
     "longitude": 129.2166992,
-    "latitude": 36.0682835
+    "latitude": 36.0682835,
+    "total_population_202310": 2,
+    "total_population_202311": 12,
+    "total_population_202312": 10
   },
   {
     "markerId": 153,
     "markerName": "7번국도",
     "longitude": 129.3593174,
-    "latitude": 36.22722816
+    "latitude": 36.22722816,
+    "total_population_202310": 532,
+    "total_population_202311": 288,
+    "total_population_202312": 64
   },
   {
     "markerId": 155,
     "markerName": "보경사 주차장",
     "longitude": 129.3182101,
-    "latitude": 36.24840504
+    "latitude": 36.24840504,
+    "total_population_202310": 36,
+    "total_population_202311": 0,
+    "total_population_202312": 6
   },
   {
     "markerId": 178,
     "markerName": "초곡1",
     "longitude": 129.3399046,
-    "latitude": 36.09768691
+    "latitude": 36.09768691,
+    "total_population_202310": 2924,
+    "total_population_202311": 2102,
+    "total_population_202312": 3649
   },
   {
     "markerId": 179,
     "markerName": "초곡2",
     "longitude": 129.3397572,
-    "latitude": 36.09777088
+    "latitude": 36.09777088,
+    "total_population_202310": 2924,
+    "total_population_202311": 2102,
+    "total_population_202312": 3649
   },
   {
     "markerId": 184,
     "markerName": "초곡3",
     "longitude": 129.3400837,
-    "latitude": 36.09782982
+    "latitude": 36.09782982,
+    "total_population_202310": 2972,
+    "total_population_202311": 2154,
+    "total_population_202312": 3786
   },
   {
     "markerId": 181,
     "markerName": "초곡 리슈빌1",
     "longitude": 129.3325371,
-    "latitude": 36.09651068
+    "latitude": 36.09651068,
+    "total_population_202310": 688,
+    "total_population_202311": 1070,
+    "total_population_202312": 1437
   },
   {
     "markerId": 185,
     "markerName": "초곡 리슈빌2",
     "longitude": 129.3325896,
-    "latitude": 36.09659525
+    "latitude": 36.09659525,
+    "total_population_202310": 688,
+    "total_population_202311": 1070,
+    "total_population_202312": 1437
   },
   {
     "markerId": 149,
     "markerName": "호리못근처",
     "longitude": 129.2828914,
-    "latitude": 36.12876115
+    "latitude": 36.12876115,
+    "total_population_202310": 4,
+    "total_population_202311": 26,
+    "total_population_202312": 4
   }
 ]
