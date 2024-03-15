@@ -1,14 +1,30 @@
 import { useState } from "react";
-import { Box, Tab, Tabs, Paper, Typography } from "@mui/material";
+import {
+  Box,
+  ListItemDecorator,
+  Tabs,
+  TabList,
+  Tab,
+  tabClasses,
+} from "@mui/joy";
+import { Paper, Typography } from "@mui/material";
 import TabContext from "@mui/lab/TabContext";
 import TabPanel from "@mui/lab/TabPanel";
 import MilitaryTechIcon from "@mui/icons-material/MilitaryTech";
+import useBannerRanking from "../hooks/useBannerRanking";
+import HomeRoundedIcon from "@mui/icons-material/HomeRounded";
+import FavoriteBorder from "@mui/icons-material/FavoriteBorder";
+import Search from "@mui/icons-material/Search";
 
 const Leaderboard = () => {
   const [value, setValue] = useState("1");
+  const bannerRankings = useBannerRanking();
+  const [index, setIndex] = useState(0);
+  const colors = ["primary", "danger", "success", "warning"];
 
   const handleChange = (event, newValue) => {
     setValue(newValue);
+    setIndex(newValue);
   };
 
   const leaderboardData = {
@@ -19,14 +35,6 @@ const Leaderboard = () => {
       { name: "포항시 해안로", points: 215 },
       { name: "포항시 상공로", points: 210 },
       { name: "포항시 청림로", points: 205 },
-    ],
-    banner: [
-      { name: "연일읍 사거리", points: 245 },
-      { name: "우현동 로터리", points: 240 },
-      { name: "해도동 교차로", points: 235 },
-      { name: "대도동 사거리", points: 230 },
-      { name: "용흥동 길", points: 225 },
-      { name: "송라면 길", points: 220 },
     ],
     officeBoard: [
       { name: "남구 동사무소", points: 260 },
@@ -96,7 +104,7 @@ const Leaderboard = () => {
                 {item.name}
               </Typography>
             </Box>
-            <Typography variant="subtitle2">{`${item.points} points`}</Typography>
+            <Typography variant="subtitle2">{`${item.points}명`}</Typography>
           </Paper>
         );
       } else {
@@ -125,7 +133,7 @@ const Leaderboard = () => {
                 {item.name}
               </Typography>
             </Box>
-            <Typography variant="subtitle2">{`${item.points} points`}</Typography>
+            <Typography variant="subtitle2">{`${item.points}명`}</Typography>
           </Paper>
         );
       }
@@ -135,25 +143,82 @@ const Leaderboard = () => {
     <TabContext value={value}>
       <Box sx={{ borderBottom: 1, borderColor: "divider" }}>
         <Tabs
-          value={value}
+          size="lg"
+          value={index}
           onChange={handleChange}
-          aria-label="leaderboard tabs"
-          variant="fullWidth"
-          indicatorColor="primary"
+          sx={(theme) => ({
+            p: 1,
+            borderRadius: 16,
+            maxWidth: 400,
+            mx: "auto",
+            boxShadow: theme.shadow.sm,
+            "--joy-shadowChannel":
+              theme.vars.palette[colors[index]].darkChannel,
+            [`& .${tabClasses.root}`]: {
+              py: 1,
+              flex: 1,
+              transition: "0.3s",
+              fontWeight: "md",
+              fontSize: "sm",
+              [`&:not(.${tabClasses.selected}):not(:hover)`]: {
+                opacity: 0.7,
+              },
+            },
+          })}
         >
-          <Tab label="분류없음" value="1" />
-          <Tab label="현수막지정게시대" value="2" />
-          <Tab label="동사무소게시판" value="3" />
+          <TabList
+            variant="plain"
+            size="sm"
+            disableUnderline
+            sx={{ borderRadius: "lg", p: 0 }}
+          >
+            <Tab
+              label="현수막지정게시대"
+              value="1"
+              disableIndicator
+              orientation="vertical"
+              {...(index === 0 && { color: colors[0] })}
+            >
+              <ListItemDecorator>
+                <HomeRoundedIcon />
+              </ListItemDecorator>
+              현수막
+            </Tab>
+            <Tab
+              label="동사무소게시판"
+              value="2"
+              disableIndicator
+              orientation="vertical"
+              {...(index === 1 && { color: colors[1] })}
+            >
+              <ListItemDecorator>
+                <FavoriteBorder />
+              </ListItemDecorator>
+              동사무소
+            </Tab>
+            <Tab
+              label="분류없음"
+              value="3"
+              disableIndicator
+              orientation="vertical"
+              {...(index === 2 && { color: colors[2] })}
+            >
+              <ListItemDecorator>
+                <Search />
+              </ListItemDecorator>
+              분류없음
+            </Tab>
+          </TabList>
         </Tabs>
       </Box>
       <TabPanel value="1" sx={{ p: 0 }}>
-        {renderListItems(leaderboardData.none)}
+        {renderListItems(bannerRankings)}
       </TabPanel>
       <TabPanel value="2" sx={{ p: 0 }}>
-        {renderListItems(leaderboardData.banner)}
+        {renderListItems(leaderboardData.officeBoard)}
       </TabPanel>
       <TabPanel value="3" sx={{ p: 0 }}>
-        {renderListItems(leaderboardData.officeBoard)}
+        {renderListItems(leaderboardData.none)}
       </TabPanel>
     </TabContext>
   );
