@@ -3,7 +3,7 @@ import Drawer from "@mui/joy/Drawer";
 import Sheet from "@mui/joy/Sheet";
 import ModalClose from "@mui/joy/ModalClose";
 import DialogTitle from "@mui/joy/DialogTitle";
-
+import Leaderboard from "./LeaderBoard";
 const MenuPanel = ({ isOpen, toggleMenuPanel }) => {
   return (
     <Drawer
@@ -44,8 +44,9 @@ const MenuPanel = ({ isOpen, toggleMenuPanel }) => {
           border: "1px solid rgba(255, 255, 255, 0.25)",
         }}
       >
-        <DialogTitle>메뉴</DialogTitle>
+        <DialogTitle>전체 랭킹</DialogTitle>
         <ModalClose />
+        <Leaderboard />
       </Sheet>
     </Drawer>
   );

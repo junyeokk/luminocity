@@ -5,7 +5,7 @@ import { useMenuPanel } from "../../hooks/useMenuPanel";
 import SidePanel from "../SidePanel";
 import MenuPanel from "../MenuPanel";
 import IconButton from "@mui/material/IconButton";
-import MenuIcon from "@mui/icons-material/Menu";
+import AnalyticsIcon from "@mui/icons-material/Analytics";
 
 const Map = () => {
   const [selectedMarker, setSelectedMarker] = useState(null);
@@ -55,7 +55,7 @@ const Map = () => {
           },
         }}
       >
-        <MenuIcon fontSize="large" />
+        <AnalyticsIcon fontSize="large" sx={{ color: "#353535" }} />
       </IconButton>
 
       <SidePanel
