@@ -80,7 +80,7 @@ const Legend = () => {
       <LegendContainer>
         <LegendTextContainer>
           <LegendText>범례(마커)</LegendText>
-          <LegendTextEng>Legend(Makrer)</LegendTextEng>
+          <LegendTextEng>Legend - Marker</LegendTextEng>
         </LegendTextContainer>
 
         {items.map((item) => (
@@ -93,7 +93,7 @@ const Legend = () => {
       <LegendContainer top="350px">
         <LegendTextContainer>
           <LegendText>범례(히트맵)</LegendText>
-          <LegendTextEng>Legend(Heatmap)</LegendTextEng>
+          <LegendTextEng>Legend - Heatmap</LegendTextEng>
         </LegendTextContainer>
 
         <GradientBar />
