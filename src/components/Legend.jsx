@@ -58,7 +58,7 @@ const Legend = () => {
   const items = [
     { color: "#F05650", label: "상위 10퍼센트" },
     { color: "#5858EE", label: "하위 30퍼센트" },
-    { color: "#808080", label: "속해있지 않는 나머지" },
+    { color: "#808080", label: "속해있지 않은 나머지" },
   ];
 
   return (
