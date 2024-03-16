@@ -28,22 +28,8 @@ const Leaderboard = () => {
   };
 
   const leaderboardData = {
-    none: [
-      { name: "포항시 죽도로", points: 230 },
-      { name: "포항시 대잠로", points: 225 },
-      { name: "포항시 희망대로", points: 220 },
-      { name: "포항시 해안로", points: 215 },
-      { name: "포항시 상공로", points: 210 },
-      { name: "포항시 청림로", points: 205 },
-    ],
-    officeBoard: [
-      { name: "남구 동사무소", points: 260 },
-      { name: "북구 동사무소", points: 255 },
-      { name: "상모사곡동 동사무소", points: 250 },
-      { name: "장기동 동사무소", points: 245 },
-      { name: "환여동 동사무소", points: 240 },
-      { name: "대송면 동사무소", points: 235 },
-    ],
+    none: [{ name: "준비중입니다.", points: 0 }],
+    officeBoard: [{ name: "준비중입니다.", points: 0 }],
   };
 
   const rankColors = ["#FFD700", "#C0C0C0", "#CD7F32"];
