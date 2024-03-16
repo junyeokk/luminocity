@@ -11,6 +11,7 @@ const LegendTextContainer = styled.div`
 const LegendText = styled.span`
   font-size: 30px;
   font-weight: 900;
+  color: black;
 `;
 
 const LegendTextEng = styled.span`
@@ -50,13 +51,14 @@ const Label = styled.span`
   margin-left: 15px;
   font-size: 20px;
   font-weight: bold;
+  color: black;
 `;
 
 const Legend = () => {
   const items = [
-    { color: "#3CB043", label: "상위 10퍼센트" },
-    { color: "#ED544A", label: "하위 30퍼센트" },
-    { color: "#5858EE", label: "속해있지 않는 나머지" },
+    { color: "#F05650", label: "상위 10퍼센트" },
+    { color: "#5858EE", label: "하위 30퍼센트" },
+    { color: "#808080", label: "속해있지 않는 나머지" },
   ];
 
   return (
