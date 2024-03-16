@@ -4,6 +4,7 @@ import { useMap } from "../../hooks/useMap";
 import { useMenuPanel } from "../../hooks/useMenuPanel";
 import SidePanel from "../SidePanel";
 import MenuPanel from "../MenuPanel";
+import Legend from "../Legend";
 import IconButton from "@mui/material/IconButton";
 import AnalyticsIcon from "@mui/icons-material/Analytics";
 
@@ -35,6 +36,7 @@ const Map = () => {
           position: "fixed",
         }}
       />
+      <Legend />
       <IconButton
         color="inherit"
         aria-label="open drawer"
