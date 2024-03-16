@@ -155,7 +155,7 @@ const SidePanel = ({ selectedMarker, isOpen, onClose }) => {
                       level="body1"
                       sx={{ fontSize: "1.2rem", fontWeight: "bold" }}
                     >
-                      게시 비용{" "}
+                      게시 비용
                     </Typography>
                     <Typography
                       level="body1"
