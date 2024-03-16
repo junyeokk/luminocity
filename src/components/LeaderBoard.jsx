@@ -12,8 +12,8 @@ import TabContext from "@mui/lab/TabContext";
 import TabPanel from "@mui/lab/TabPanel";
 import MilitaryTechIcon from "@mui/icons-material/MilitaryTech";
 import useBannerRanking from "../hooks/useBannerRanking";
-import HomeRoundedIcon from "@mui/icons-material/HomeRounded";
-import FavoriteBorder from "@mui/icons-material/FavoriteBorder";
+import AdUnitsTwoToneIcon from "@mui/icons-material/AdUnitsTwoTone";
+import HomeWorkTwoToneIcon from "@mui/icons-material/HomeWorkTwoTone";
 import Search from "@mui/icons-material/Search";
 
 const Leaderboard = () => {
@@ -81,8 +81,8 @@ const Leaderboard = () => {
             key={index}
             elevation={1}
             sx={{
-              my: 2,
-              p: 2,
+              my: 3,
+              p: 3,
               display: "flex",
               alignItems: "center",
               justifyContent: "space-between",
@@ -99,12 +99,15 @@ const Leaderboard = () => {
               {renderRankIcon(index)}{" "}
               <Typography
                 variant="subtitle1"
-                sx={{ ml: 2, fontWeight: "bold" }}
+                sx={{ ml: 2, fontWeight: "bold", fontSize: 18 }}
               >
                 {item.name}
               </Typography>
             </Box>
-            <Typography variant="subtitle2">{`${item.points}명`}</Typography>
+            <Typography
+              variant="subtitle2"
+              sx={{ mr: 2, fontWeight: "bold", fontSize: 18 }}
+            >{`${item.points}명`}</Typography>
           </Paper>
         );
       } else {
@@ -113,7 +116,7 @@ const Leaderboard = () => {
             key={index}
             elevation={1}
             sx={{
-              my: 2,
+              my: 2.5,
               p: 2,
               display: "flex",
               alignItems: "center",
@@ -133,7 +136,10 @@ const Leaderboard = () => {
                 {item.name}
               </Typography>
             </Box>
-            <Typography variant="subtitle2">{`${item.points}명`}</Typography>
+            <Typography
+              variant="subtitle2"
+              sx={{ mr: 2, fontWeight: 600 }}
+            >{`${item.points}명`}</Typography>
           </Paper>
         );
       }
@@ -141,15 +147,14 @@ const Leaderboard = () => {
 
   return (
     <TabContext value={value}>
-      <Box sx={{ borderBottom: 1, borderColor: "divider" }}>
+      <Box>
         <Tabs
           size="lg"
           value={index}
           onChange={handleChange}
           sx={(theme) => ({
-            p: 1,
+            p: 2,
             borderRadius: 16,
-            maxWidth: 400,
             mx: "auto",
             boxShadow: theme.shadow.sm,
             "--joy-shadowChannel":
@@ -180,7 +185,7 @@ const Leaderboard = () => {
               {...(index === 0 && { color: colors[0] })}
             >
               <ListItemDecorator>
-                <HomeRoundedIcon />
+                <AdUnitsTwoToneIcon />
               </ListItemDecorator>
               현수막
             </Tab>
@@ -192,7 +197,7 @@ const Leaderboard = () => {
               {...(index === 1 && { color: colors[1] })}
             >
               <ListItemDecorator>
-                <FavoriteBorder />
+                <HomeWorkTwoToneIcon />
               </ListItemDecorator>
               동사무소
             </Tab>
